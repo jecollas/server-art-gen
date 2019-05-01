@@ -57,6 +57,78 @@ var ranChar = {
   'role': role
 };
 
+// var local = [
+//   "War Dogs",
+//   "The Sanctum",
+//   "Windsor's Gym",
+//   "The Raft",
+//   "the LA Super Collider",
+//   "the New York Super Collider",
+//   "the New Mexico Super Collider",
+//   "the New York Subway",
+//   "Central Park",
+//   "Times Square",
+//   "Hell's Kitchen",
+//   "SHIELD HQ"
+// ];
+
+var activity = [
+  "have a fight",
+  "hang out",
+  "have a talk",
+  "go to a party",
+  "go on patrol",
+  // "glitch",
+  "go on a shopping trip",
+  "go on vacation to",
+  "go on a stakeout",
+  "have a babysitting adventure",
+  "have to solve a problem",
+  "have to find their way home",
+  "have to evade the enemy",
+  "have to escape a disaster",
+  "have to hide from the enemy",
+  "fight the enemy",
+  "play a prank on someone",
+  "take a trip",
+  "work on solving a mystery",
+  "try to figure out how to solve a problem",
+  "talk about life in general and how things are going",
+  "have a philosophical discussion",
+  "have a weird conversation",
+  "talk about a shared life experience",
+  "talk about their interests",
+  "have a scientific discussion",
+  "have a drink",
+  "talk about a shared interest",
+  "tell jokes to each other",
+  "share personal stories",
+  "spar with each other",
+  "wait for something to happen",
+  "clean up a mess cause by someone else",
+  "have coffee together",
+  "have lunch together",
+  "have dinner together",
+  "have dessert together",
+  "have drinks together",
+  "go on a walk in the park",
+  "go outdoors together",
+  "take a walk",
+  "are stuck inside"
+];
+
+var universe = [
+  "Alpha",
+  "Beta",
+  "Omega"
+];
+
+var prompt = {
+  // 'local': local,
+  'activity': activity,
+  'universe': universe
+};
+
 function random(arr) {
   return Math.floor((Math.random() * arr));
 }
@@ -82,6 +154,22 @@ function newIdea2() {
 
   char2 = randomString(ranChar["char"]);
   document.getElementById('char2').innerHTML = char2;
+
+}
+
+function newPrompt1() {
+
+  chara1 = randomString(ranChar['char']);
+  document.getElementById('chara1').innerHTML = chara1;
+
+  chara2 = randomString(ranChar['char']);
+  document.getElementById('chara2').innerHTML = chara2;
+
+  activity = randomString(prompt["activity"]);
+  document.getElementById('prompt').innerHTML = activity;
+
+  universe = randomString(prompt["universe"]);
+  document.getElementById('universe').innerHTML = universe;
 
 }
 
