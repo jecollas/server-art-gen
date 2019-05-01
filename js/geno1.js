@@ -48,7 +48,8 @@ var role = [
   "Star Lord",
   "Deadpool",
   "Captain Marvel",
-  "Mystique"
+  "Mystique",
+  "Captain America"
 ];
 
 var ranChar = {
@@ -65,11 +66,40 @@ function randomString(strings) {
   return strings[randA];
 }
 
-function newIdea() {
+function newIdea1() {
 
   char = randomString(ranChar["char"]);
   document.getElementById('randomChar').innerHTML = char;
 
   role = randomString(ranChar["role"]);
   document.getElementById('randomRole').innerHTML = role;
+}
+
+function newIdea2() {
+
+  char1 = randomString(ranChar["char"]);
+  document.getElementById('char1').innerHTML = char1;
+
+  char2 = randomString(ranChar["char"]);
+  document.getElementById('char2').innerHTML = char2;
+
+}
+
+function openMore() {
+
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("readMore");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more";
+    moreText.style.display = "none";
+  }
+  else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less";
+    moreText.style.display = "inline";
+  }
+
 }
