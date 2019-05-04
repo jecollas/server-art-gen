@@ -12,18 +12,77 @@ h1 {
   font-family: 'Rock Salt', cursive;
 }
 
+h2 {
+  font-family: 'Avenir', sans-serif;
+  margin: 1em;
+}
+
+h3 {
+  font-family: 'Avenir', sans-serif;
+  margin: 1em;
+}
+
+.yaya {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 p.geno {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
   text-align: center;
-  padding: 5em;
+  padding: 2em;
 }
 
-p.description {
+.row {
+  margin-top: 2em;
+}
+
+.mora {
+  background-color: #2F3136;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 50%;
+  border: none;
+  text-align: left;
+  outline: none;
+  border-radius: 12px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  margin-left: 1em;
+}
+
+.active,
+.mora:hover {
+  background-color: #2B2C31;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #2F3136;
+}
+
+.content {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
-  padding: 2em;
-  line-height: 1.5em;
+  line-height: 1.8em;
+  margin-top: .5em;
+  margin-left: 1em;
+}
+
+.a {
+  color: #FF3636;
+}
+
+.b {
+  color: #2989FF;
+}
+
+.o {
+  color: #F1C40E;
 }
 
 button.geno-btn {
@@ -73,29 +132,86 @@ button.geno-btn {
   color: #FFFFFF;
 }
 
-#more {
-  display: none;
-}
-
-button#readMore {
+img {
+  border-radius: 12px;
+  padding: 5px;
+  width: 150px;
   display: block;
-  margin-left: 2em;
+  margin-left: auto;
   margin-right: auto;
-  font-size: 20px;
-  padding: 15px 25px;
-  border-radius: 15px;
-  border: none;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  margin-top: 0;
-  margin-bottom: 2em;
 }
 
-@media screen and (max-width: 800px) {
- body {
-   padding: 1em; 
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  /* opacity: 0.7; */
+}
+
+.info {
+  text-align: center;
+  font-size: 18px;
+}
+
+/*  */
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin:auto;
+  display: block;
+  max-height: 650px;
+  width: auto;
+}
+
+/* Caption of Modal Image */
+#caption1,
+#caption2,
+#caption3 {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    padding: 1em;
+  }
+   .modal-content {
+     width: 100%;
+  }
+   .column {
+     -ms-flex: 50%;
+     flex: 50%;
+     max-width: 50%;
+  } 
  }
 
-}
+ @media screen and (max-width: 800px) {
+
+ }
+
+ @media screen and (max-width: 600px) {
+   .column {
+     -ms-flex: 100%;
+     flex: 100%;
+     max-width: 100%;
+   }
+ }
