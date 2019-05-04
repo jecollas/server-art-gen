@@ -123,12 +123,6 @@ var universe = [
   "Omega"
 ];
 
-var prompt = {
-  // 'local': local,
-  'activity': activity,
-  'universe': universe
-};
-
 function random(arr) {
   return Math.floor((Math.random() * arr));
 }
@@ -165,29 +159,27 @@ function newPrompt1() {
   chara2 = randomString(ranChar['char']);
   document.getElementById('chara2').innerHTML = chara2;
 
-  activity = randomString(prompt["activity"]);
+  activity = randomString(activity);
   document.getElementById('prompt').innerHTML = activity;
 
-  universe = randomString(prompt["universe"]);
+  universe = randomString(universe);
   document.getElementById('universe').innerHTML = universe;
 
 }
 
-function openMore() {
+var mora = document.getElementsByClassName("mora");
+var i;
 
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("readMore");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more";
-    moreText.style.display = "none";
-  }
-  else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less";
-    moreText.style.display = "inline";
-  }
-
+function openMora() {
+for (i = 0; i < mora.length; i++) {
+  mora[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
 }
