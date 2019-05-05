@@ -123,6 +123,11 @@ var universe = [
   "Omega"
 ];
 
+var prompt = {
+  'activity': activity,
+  'universe': universe
+};
+
 function random(arr) {
   return Math.floor((Math.random() * arr));
 }
@@ -159,10 +164,10 @@ function newPrompt1() {
   chara2 = randomString(ranChar['char']);
   document.getElementById('chara2').innerHTML = chara2;
 
-  activity = randomString(activity);
+  activity = randomString(prompt['activity']);
   document.getElementById('prompt').innerHTML = activity;
 
-  universe = randomString(universe);
+  universe = randomString(prompt['universe']);
   document.getElementById('universe').innerHTML = universe;
 
 }
