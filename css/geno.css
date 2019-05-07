@@ -146,10 +146,49 @@ img {
   margin-top: 10px;
 }
 
-img:hover {
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  -ms-flex: 25%;
+  flex: 25%;
+  max-width: 25%;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  padding: 1em;
+}
+
+img:hover,
+img.portrait:hover,
+img.landscape:hover {
+  opacity: .8;
+}
+
+.portrait {
+  border-radius: 12%;
+}
+
+.landscape {
+  border-radius: 15%;
+}
+
+.row {
+  padding: 2em;
+}
+
+/* img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   /* opacity: 0.7; */
-}
+
 
 a.a:hover {
   color: #B82829;
