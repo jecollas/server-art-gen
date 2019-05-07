@@ -31,6 +31,34 @@ img.onclick = function() {
   captionText.innerHTML = this.alt;
 }
 
+var modal = document.getElementById('myModal4')
+var img = document.getElementById('myImg4')
+var modalImg = document.getElementById('imga4')
+var captionText = document.getElementById('caption4')
+img.onclick = function() {
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+var modal = document.getElementById('myModal5')
+var img = document.getElementById('myImg5')
+var modalImg = document.getElementById('imga5')
+var captionText = document.getElementById('caption5')
+img.onclick = function() {
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
 window.onclick = function(event) {
   if (event.target == modal) {
     modal.style.display = "none";
