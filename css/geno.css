@@ -43,7 +43,7 @@ p.geno {
   color: white;
   cursor: pointer;
   padding: 18px;
-  width: 50%;
+  width: 75%;
   border: none;
   text-align: left;
   outline: none;
@@ -83,6 +83,10 @@ p.geno {
 
 .o {
   color: #F1C40E;
+}
+
+.indent {
+  text-indent: 1em;
 }
 
 button.geno-btn {
@@ -139,11 +143,16 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
 }
 
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   /* opacity: 0.7; */
+}
+
+a.a:hover {
+  color: #B82829;
 }
 
 .info {
@@ -165,7 +174,7 @@ img:hover {
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  background-color: rgba(0,0,0,0.9);
 }
 
 /* Modal Content (image) */
@@ -176,10 +185,28 @@ img:hover {
   width: auto;
 }
 
-/* Caption of Modal Image */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 #caption1,
 #caption2,
-#caption3 {
+#caption3,
+#caption4,
+#caption5 {
   margin: auto;
   display: block;
   width: 80%;
@@ -194,17 +221,17 @@ img:hover {
   body {
     padding: 1em;
   }
-   .modal-content {
-     width: 100%;
-  }
    .column {
      -ms-flex: 50%;
      flex: 50%;
      max-width: 50%;
-  } 
- }
-
- @media screen and (max-width: 800px) {
+  }
+  .modal-content {
+    margin:auto;
+    display: block;
+    height: 100%;
+    width: auto;
+  }
 
  }
 
