@@ -275,6 +275,11 @@ a.a:hover {
   cursor: pointer;
 }
 
+.info {
+  text-align: center;
+  font-size: 18px;
+}
+
 #caption1,
 #caption2,
 #caption3,
