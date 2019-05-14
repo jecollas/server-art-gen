@@ -105,7 +105,7 @@ var activity = [
   "share personal stories",
   "spar with each other",
   "wait for something to happen",
-  "clean up a mess cause by someone else",
+  "clean up a mess caused by someone else",
   "have coffee together",
   "have lunch together",
   "have dinner together",
