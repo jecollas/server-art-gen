@@ -144,6 +144,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
+  padding: 1em;
 }
 
 .row {
@@ -247,6 +248,23 @@ a.a:hover {
   display: block;
 }
 
+.refModal {
+  display: none;
+  height: inherit;
+  max-height: 640px;
+  max-width: auto;
+}
+
+.refModal img {
+  max-height: 640px;
+  width: auto;
+  align-content: center;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: block;
+}
+
 .caption-container {
   margin: auto;
   display: block;
@@ -280,7 +298,7 @@ a.a:hover {
   font-size: 18px;
 }
 
-#caption1,
+/* #caption1,
 #caption2,
 #caption3,
 #caption4,
@@ -293,7 +311,7 @@ a.a:hover {
   color: #ccc;
   padding: 10px 0;
   height: 150px;
-}
+} */
 
 @media only screen and (max-width: 800px) {
   body {
@@ -304,13 +322,6 @@ a.a:hover {
      flex: 50%;
      max-width: 50%;
   }
-  .modal-content {
-    margin:auto;
-    display: block;
-    height: 100%;
-    width: auto;
-  }
-
  }
 
  @media screen and (max-width: 600px) {
@@ -319,4 +330,14 @@ a.a:hover {
      flex: 100%;
      max-width: 100%;
    }
+
+   /* .artModal img {
+     max-width: 300px;
+     height: auto;
+     align-content: center;
+     left: 0;
+     right: 0;
+     margin: auto;
+     display: block;
+   } */
  }
