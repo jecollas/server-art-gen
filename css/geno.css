@@ -7,8 +7,8 @@ body {
 }
 
 h1 {
-  padding-top: 1em;
-  padding-bottom: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   font-family: 'Rock Salt', cursive;
 }
 
@@ -227,14 +227,13 @@ a.a:hover {
   margin:auto;
   display: block;
   height: inherit;
-  max-height: 650px;
-  width: auto;
+  width: 90%;
 }
 
 .artModal {
   display: none;
   height: inherit;
-  max-height: 640px;
+  max-height: inherit;
   max-width: auto;
 }
 
