@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+
 <head>
+
   <title>Marvelverse Art Inspo</title>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Jackie Collas">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="css/geno.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Rock+Salt" rel="stylesheet">
-  <script src="js/geno1.js"></script>
 </head>
 <header>
   <div class="container-fluid">
@@ -16,23 +18,25 @@
   </div>
 
   <div class="pill-nav">
-    <a class="active" href="index.html">Role Swap</a>
+    <a class="active" href="index.html">Art Prompt</a>
     <a href="gen2.html">OC Fusion</a>
+    <a href="gen3.html">Role Swap</a>
     <a href="prompt1.html">RP Prompt</a>
-    <a href="descriptions.html">Characters</a>
+    <a href="descriptions.html">References</a>
     <a href="fanart.html">Fanart Gallery</a>
   </div>
 
 </header>
 <body>
 
-  <!-- Draw what [character] would look like as [role] -->
+  <!-- Draw your character [noun] -->
 
   <p class="geno">
-    Draw what <span id="randomChar">[character]</span> would look like as <span id="randomRole">[role]</span>.
+    Draw your character <span id="noun">[blank]</span>.
   </p>
 
-  <button onclick="newIdea1()" class="geno-btn">Generate</button>
+  <button onclick="ideaClick()" class="geno-btn">Generate</button>
 
+  <script src="js/geno4.js"></script>
 </body>
 </html>
