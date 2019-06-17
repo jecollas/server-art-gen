@@ -15,7 +15,6 @@ var char = [
   'Dakota Reynolds', //Iron Man
   'Zoe Davis', //Venom
   'Marcus Gunderson', //Thor
-  'Flynn Garrett', //Scarlet Witch
   'Ahrel', //Loki
   'Melissa', //Wolverine
   'Jaime Barnes', //Winter Soldier
@@ -24,7 +23,7 @@ var char = [
   'Nita Ohm', //Spider Man
   'Donni Dimitries', //Prowler
   'Lea', //Rufus
-  'Noriko', //Loki
+  'Noriko Akatsuki', //Loki
   'Enna', //Gamora
   'Z Quill', //Star Lord
   'Xavier Wolfe', //Venom
