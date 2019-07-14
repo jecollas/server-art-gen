@@ -1,0 +1,14 @@
+---
+layout: default
+title: Marvelverse
+---
+
+<ul>
+{% for art in site.data.gallery %}
+  <li>
+    <a href="{{ art.url }}" title="{{ art.layout }}">
+      {{ art.caption }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
