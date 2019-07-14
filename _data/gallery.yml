@@ -20,31 +20,30 @@
   caption: Diamond Patch
   layout: portrait
 - url: img/weaponx
-
-  - url: img/Enna.png
-    caption: Enna
-    layout: portrait
-  - url: img/Enna_at_a_party.png
-    caption: Enna at a Party
-    layout: portrait
-  - url: img/Enna_ref_sheet.png
-    caption: Enna ref sheet
-    layout: landscape
-  - url: img/FRIEND-SHAPED.jpg
-    caption: FRIEND SHAPED!!!
-    layout: landscape
-  - url: img/HAPPY_VALENTINES_DAY.png
-    caption: Happy Valentines Day!
-    layout: landscape
-  - url: img/Happy_Pride_Month.png
-    caption: Happy Pride Month!
-    layout: portrait
-  - url: img/KO.jpg
-    caption: Knockout
-    layout: portrait
-  - url: img/Murder_Wives_Pride.png
-    caption: Murder Wives
-    layout: landscape
+- url: img/Enna.png
+  caption: Enna
+  layout: portrait
+- url: img/Enna_at_a_party.png
+  caption: Enna at a Party
+  layout: portrait
+- url: img/Enna_ref_sheet.png
+  caption: Enna ref sheet
+  layout: landscape
+- url: img/FRIEND-SHAPED.jpg
+  caption: FRIEND SHAPED!!!
+  layout: landscape
+- url: img/HAPPY_VALENTINES_DAY.png
+  caption: Happy Valentines Day!
+  layout: landscape
+- url: img/Happy_Pride_Month.png
+  caption: Happy Pride Month!
+  layout: portrait
+- url: img/KO.jpg
+  caption: Knockout
+  layout: portrait
+- url: img/Murder_Wives_Pride.png
+  caption: Murder Wives
+  layout: landscape
 
   #
   # - url: img/Oliver_Lance.png
