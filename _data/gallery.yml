@@ -1,0 +1,8 @@
+- url: img/img000.jpg
+  caption: >
+    This is a great picture of a bird.
+    His name is Eldon.
+  layout: portrait
+- url: img/img002.jpg
+  caption: Another picture
+  layout: landscape
