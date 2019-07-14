@@ -1,8 +1,113 @@
-- url: img/img000.jpg
-  caption: >
-    This is a great picture of a bird.
-    His name is Eldon.
+- url: img/wildlife-au-half-sketch.png
+  caption: Wildlife AU
   layout: portrait
-- url: img/img002.jpg
-  caption: Another picture
+- url: img/pride.png
+  caption: Asexual Pride
   layout: landscape
+- url: img/heirofrage.png
+  caption: Heir of Rage
+  layout: landscape
+- url: img/xtriad.png
+  caption: The X-Triad
+  layout: landscape
+- url: img/bisc.jpg
+  caption: Biscuit
+  layout: landscape
+- url: img/comicover.jpg
+  caption: Wolverine Vol.12
+  layout: portrait
+- url: img/diamondpatch.png
+  caption: Diamond Patch
+  layout: portrait
+- url: img/weaponx
+
+  - url: img/Enna.png
+    caption: Enna
+    layout: portrait
+  - url: img/Enna_at_a_party.png
+    caption: Enna at a Party
+    layout: portrait
+  - url: img/Enna_ref_sheet.png
+    caption: Enna ref sheet
+    layout: landscape
+  - url: img/FRIEND-SHAPED.jpg
+    caption: FRIEND SHAPED!!!
+    layout: landscape
+  - url: img/HAPPY_VALENTINES_DAY.png
+    caption: Happy Valentines Day!
+    layout: landscape
+  - url: img/Happy_Pride_Month.png
+    caption: Happy Pride Month!
+    layout: portrait
+  - url: img/KO.jpg
+    caption: Knockout
+    layout: portrait
+  - url: img/Murder_Wives_Pride.png
+    caption: Murder Wives
+    layout: landscape
+
+  #
+  # - url: img/Oliver_Lance.png
+  # - url: img/Post-Kaboom.png
+  # - url: img/SPOILER_Candy_gore_Enna.png
+  #
+  #
+
+
+
+  # - url: img/Stylish_Enna.png
+  # - url: img/Timeout_Jar.png
+  # - url: img/Unamused_blobdog.jpg
+  # - url: img/VenomXavier.png
+  # - url: img/Venomdog_Red_BG.png
+  # - url: img/Xavier_needs_a_fucking_nap.png
+  # - url: img/annalese.jpg
+  # - url: img/are_they_edgy_yet_lighting.png
+  # - url: img/bea-sketch.jpg
+  # - url: img/bea.jpg
+  # - url: img/bisc.jpg
+  # - url: img/blushboy.jpg
+  # - url: img/body.jpg
+  # - url: img/borntorun.JPG
+  # - url: img/comicover.jpg
+  # - url: img/cuddles.jpg
+  # - url: img/dance.jpg
+  # - url: img/danielnation.png
+  # - url: img/diamondpatch.png
+  # - url: img/donni.jpg
+  # - url: img/earworm.jpg
+  # - url: img/elizaski.jpg
+  # - url: img/enna.jpg
+  # - url: img/flower.jpg
+  # - url: img/heirofrage.png
+  # - url: img/illbewaiting.jpg
+  # - url: img/jacobi.jpg
+  # - url: img/jaimeref.jpg
+  # - url: img/knofe.jpg
+  # - url: img/learef.png
+  # - url: img/lesbianwolvie.png
+  # - url: img/loki.jpg
+  # - url: img/love.jpg
+  # - url: img/melissa-ref-nice.png
+  # - url: img/melissaref.png
+  # - url: img/mellieref.jpg
+  # - url: img/mx-and-mrs-x.jpg
+  # - url: img/narley.jpg
+  # - url: img/nicenight.jpg
+  # - url: img/nita-casual.jpg
+  # - url: img/nitayes.jpg
+  # - url: img/noriko.png
+  # - url: img/panxavier.png
+  # - url: img/pride.png
+  # - url: img/pridehex.png
+  # - url: img/roar.jpg
+  # - url: img/sharks.jpg
+  # - url: img/soulmatespell.png
+  # - url: img/spiderfang.jpg
+  # - url: img/totally_not_a_demon.jpg
+  # - url: img/weaponhex.png
+  # - url: img/weaponx.JPG
+  # - url: img/wendigopink.jpg
+  # - url: img/wildlife-au-half-sketch.png
+  # - url: img/xtriad.png
+  # - url: img/zquill.png
