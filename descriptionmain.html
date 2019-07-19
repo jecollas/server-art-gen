@@ -1,0 +1,21 @@
+---
+layout: default
+title: Character Reference
+---
+
+<!--START-->
+
+<div class="row">
+    <div class="column">
+        {% for refs in site.data.descref %}
+        <div class="square"></div>
+        <div>
+            {{ refs.info }}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- <link ref="stylesheet" href="css/desc-css.css"> -->
+
+<!--END-->

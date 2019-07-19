@@ -3,12 +3,37 @@ layout: default
 title: Marvelverse
 ---
 
-<ul>
-{% for art in site.data.gallery %}
-  <li>
-    <a href="{{ art.url }}" title="{{ art.layout }}">
-      {{ art.caption }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+<div class="row">
+  <div class="column">
+  {% for art in site.data.gallery.gallery1 %}
+    <img src="{{ art.url }}" class="{{ art.orientation }}" alt="{{ art.artist }}">
+      <div class="info">
+        {{ art.caption }}
+      </div>
+  {% endfor %}
+  </div>
+  <div class="column">
+  {% for art in site.data.gallery.gallery2 %}
+    <img src="{{ art.url }}" class="{{ art.orientation }}" alt="{{ art.artist }}">
+      <div class="info">
+        {{ art.caption }}
+      </div>
+  {% endfor %}        
+  </div>
+  <div class="column">
+  {% for art in site.data.gallery.gallery3 %}
+    <img src="{{ art.url }}" class="{{ art.orientation }}" alt="{{ art.artist }}">
+      <div class="info">
+        {{ art.caption }}
+      </div>
+  {% endfor %}    
+  </div>
+  <div class="column">
+  {% for art in site.data.gallery.gallery4 %}
+    <img src="{{ art.url }}" class="{{ art.orientation }}" alt="{{ art.artist }}">
+      <div class="info">
+        {{ art.caption }}
+      </div>
+  {% endfor %}  
+  </div>
+</div>
