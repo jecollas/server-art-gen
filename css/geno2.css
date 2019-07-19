@@ -73,6 +73,25 @@ body p {
   padding: 0 4px;
 }
 
+.info {
+  text-align: center;
+  font-size: 18px;
+}
+
+.row > .column {
+  padding: 0 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+}
+
 footer {
   background-color: #2F3136;
   color: #FFFFFF;
@@ -166,15 +185,21 @@ omega icon yellow: #FBD203;
   outline: none;
 }
 
-/* .grid-sizer,
-.grid-item { 
-  width: 20%;
-} */
+@media only screen and (max-width: 800px) {
+  body {
+    padding: 1em;
+  }
+   .column {
+     -ms-flex: 50%;
+     flex: 50%;
+     max-width: 50%;
+  }
+ }
 
-/* 3 columns by default */
-.grid-sizer { width: 33.333%; }
-
-@media screen and (min-width: 768px) {
-  /* 5 columns for larger screens */
-  .grid-sizer { width: 20%; }
-}
+ @media screen and (max-width: 600px) {
+   .column {
+     -ms-flex: 100%;
+     flex: 100%;
+     max-width: 100%;
+   }
+ }
