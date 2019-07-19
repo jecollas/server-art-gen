@@ -1,112 +1,420 @@
-- url: img/wildlife-au-half-sketch.png
-  caption: Wildlife AU
-  layout: portrait
-- url: img/pride.png
-  caption: Asexual Pride
-  layout: landscape
-- url: img/heirofrage.png
-  caption: Heir of Rage
-  layout: landscape
-- url: img/xtriad.png
-  caption: The X-Triad
-  layout: landscape
-- url: img/bisc.jpg
-  caption: Biscuit
-  layout: landscape
-- url: img/comicover.jpg
-  caption: Wolverine Vol.12
-  layout: portrait
-- url: img/diamondpatch.png
-  caption: Diamond Patch
-  layout: portrait
-- url: img/weaponx
+# Credit to mariquita#6121 on Discord
+# Credit to Katie♡#2465 on Discord
+# Credit to Morgan#3114 on Discord
+# Credit to Smaw-#0294 on Discord
+# Credit to Anuk#4832 on Discord
+# Credit to displaced knight#2327 on Discord
+# Credit to Bio-blegh#6677 on Discord
+# Credit to DarthGlowstick#1130 on Discord
+# Credit to Ga4l#8615 on Discord
+# Credit to Dex Maximun#1672 on Discord
+
+gallery1:
 - url: img/Enna.png
   caption: Enna
-  layout: portrait
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
 - url: img/Enna_at_a_party.png
   caption: Enna at a Party
-  layout: portrait
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
 - url: img/Enna_ref_sheet.png
-  caption: Enna ref sheet
-  layout: landscape
+  caption: Enna Ref sheet
+  orientation: landscape
+  artist: Credit to Smaw-#0294 on Discord
+
 - url: img/FRIEND-SHAPED.jpg
-  caption: FRIEND SHAPED!!!
-  layout: landscape
+  caption: Biscuit, Incredibly Friend-Shaped
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
 - url: img/HAPPY_VALENTINES_DAY.png
   caption: Happy Valentines Day!
-  layout: landscape
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
 - url: img/Happy_Pride_Month.png
-  caption: Happy Pride Month!
-  layout: portrait
+  caption: Agender Pride
+  orientation: portrait
+  artist: Credit to Ga4l#8615 on Discord
+
 - url: img/KO.jpg
   caption: Knockout
-  layout: portrait
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
 - url: img/Murder_Wives_Pride.png
-  caption: Murder Wives
-  layout: landscape
+  caption: Murder Wives WLW Pride
+  orientation: landscape
+  artist: Credit to Smaw-#0294 on Discord
 
-  #
-  # - url: img/Oliver_Lance.png
-  # - url: img/Post-Kaboom.png
-  # - url: img/SPOILER_Candy_gore_Enna.png
-  #
-  #
+- url: img/Oliver_Lance.png
+  caption: Oliver Lance
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
 
+- url: img/Post-Kaboom.png
+  caption: Kaboom Aftermath
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
 
+- url: img/SPOILER_Candy_gore_Enna.png
+  caption: Candy Gore
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
 
-  # - url: img/Stylish_Enna.png
-  # - url: img/Timeout_Jar.png
-  # - url: img/Unamused_blobdog.jpg
-  # - url: img/VenomXavier.png
-  # - url: img/Venomdog_Red_BG.png
-  # - url: img/Xavier_needs_a_fucking_nap.png
-  # - url: img/annalese.jpg
-  # - url: img/are_they_edgy_yet_lighting.png
-  # - url: img/bea-sketch.jpg
-  # - url: img/bea.jpg
-  # - url: img/bisc.jpg
-  # - url: img/blushboy.jpg
-  # - url: img/body.jpg
-  # - url: img/borntorun.JPG
-  # - url: img/comicover.jpg
-  # - url: img/cuddles.jpg
-  # - url: img/dance.jpg
-  # - url: img/danielnation.png
-  # - url: img/diamondpatch.png
-  # - url: img/donni.jpg
-  # - url: img/earworm.jpg
-  # - url: img/elizaski.jpg
-  # - url: img/enna.jpg
-  # - url: img/flower.jpg
-  # - url: img/heirofrage.png
-  # - url: img/illbewaiting.jpg
-  # - url: img/jacobi.jpg
-  # - url: img/jaimeref.jpg
-  # - url: img/knofe.jpg
-  # - url: img/learef.png
-  # - url: img/lesbianwolvie.png
-  # - url: img/loki.jpg
-  # - url: img/love.jpg
-  # - url: img/melissa-ref-nice.png
-  # - url: img/melissaref.png
-  # - url: img/mellieref.jpg
-  # - url: img/mx-and-mrs-x.jpg
-  # - url: img/narley.jpg
-  # - url: img/nicenight.jpg
-  # - url: img/nita-casual.jpg
-  # - url: img/nitayes.jpg
-  # - url: img/noriko.png
-  # - url: img/panxavier.png
-  # - url: img/pride.png
-  # - url: img/pridehex.png
-  # - url: img/roar.jpg
-  # - url: img/sharks.jpg
-  # - url: img/soulmatespell.png
-  # - url: img/spiderfang.jpg
-  # - url: img/totally_not_a_demon.jpg
-  # - url: img/weaponhex.png
-  # - url: img/weaponx.JPG
-  # - url: img/wendigopink.jpg
-  # - url: img/wildlife-au-half-sketch.png
-  # - url: img/xtriad.png
-  # - url: img/zquill.png
+- url: img/Stylish_Enna.png
+  caption: Stylish Enna
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
+- url: img/Timeout_Jar.png
+  caption: Frenzy's Timeout Jar
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/Unamused_blobdog.jpg
+  caption: Frenzy, Unamused
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/VenomXavier.png
+  caption: Xavier Wolfe
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+  
+- url: img/Venomdog_Red_BG.png
+  caption: Frenzy
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/Xavier_needs_a_fucking_nap.png
+  caption: This is so sad, Anuk post the Ben Afflek Meme
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/annalese.jpg
+  caption: Annalese
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/are_they_edgy_yet_lighting.png
+  caption: Are They Edgy Yet?
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/bea-sketch.jpg
+  caption: Beatrice Muse
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/weaponx.JPG
+  caption: Weapon X, c.1941
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+gallery2:
+- url: img/bea.jpg
+  caption: Beatrice Muse
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/bisc.jpg
+  caption: Biscuit, the Best and Roundest
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/blushboy.jpg
+  caption: Xavier Wolfe
+  orientation: portrait
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/body.jpg
+  caption: Reyna O'Connor
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/borntorun.JPG
+  caption: Baby, We Were Born to Run
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/comicover.jpg
+  caption: Wolvering Vol.12
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/cuddles.jpg
+  caption: Cuddlebug
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/dance.jpg
+  caption: Ballroom Dance
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/diamondpatch.png
+  caption: Diamond Patch
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/donni.jpg
+  caption: Donni Dimitries
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/earworm.jpg
+  caption: Earworm
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/elizaski.jpg
+  caption: Eliza and Kzaski
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/enna.jpg
+  caption: Enna
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/flower.jpg
+  caption: The Hanahaki Curse
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+  
+- url: img/heirofrage.png
+  caption: The Heir of Rage
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/illbewaiting.jpg
+  caption: You'll be Back. I'll be Waiting
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/jacobi.jpg
+  caption: Jacobi Tei
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+  
+- url: img/jaimeref.jpg
+  caption: Jaime Barnes
+  orientation: portrait
+  artist: Credit to Bio-blegh#6677 on Discord
+
+- url: img/knofe.jpg
+  caption: Bad Times at X-Manor
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/learef.png
+  caption: Lea
+  orientation: portrait
+  artist: Credit to Morgan#3114 on Discord
+
+gallery3:
+- url: img/wendigopink.jpg
+  caption: Wendigona
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/wildlife-au-half-sketch.png
+  caption: Melissa Price -- Forest Ranger
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/xtriad.png
+  caption: The X-Triad
+  orientation: landscape
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/zquill.png
+  caption: Z Quill
+  orientation: portrait
+  artist: Credit to Ga4l#8615 on Discord
+
+- url: img/prowler-quinjet.png
+  caption: The Prowler's Quinjet
+  orientation: landscape
+  artist: Credit to Dex Maximun#1672 on Discord
+
+- url: img/suni.jpg
+  caption: Suni Ohm
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/spiderfang-newsuit.jpg
+  caption: The New and Improved Spider-Fang
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/mister-x.jpg
+  caption: The Mysterious Mr. X
+  orientation: portrait
+  artist: Credit to Dex Maximun#1672 on Discord
+
+- url: img/indigoflame.jpg
+  caption: Indigo
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/prowler-glove.jpg
+  caption: The Prowler's Glove
+  orientation: portrait
+  artist: Credit to Dex Maximun#1672 on Discord
+
+- url: img/theatlantean.jpg
+  caption: The Atlantean
+  orientation: portrait
+  artist: Credit to Dex Maximun#1672 on Discord
+
+- url: img/house-ohm-masquerade.jpg
+  caption: Masquerade Ball
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/makadee.jpg
+  caption: Makadee
+  orientation: portrait
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/go_off_i_guess.jpg
+  caption: Smile, My Dear
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/bbn.jpg
+  caption: The Blep of the Beast
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/rage.jpg
+  caption: Rage
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/jaimesnacc.jpg
+  caption: A Snack
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/wifedoodle.jpg
+  caption: Villainous Winona Windsor
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/mys.jpg
+  caption: Mystique
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/okay_cris.jpg
+  caption: Who is She?
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+gallery4:
+- url: img/lesbianwolvie.png
+  caption: Lesbian Pride Wolverine
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/loki.jpg
+  caption: Noriko
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/love.jpg
+  caption: You are Loved
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/melissa-ref-nice.png
+  caption: Melissa Price
+  orientation: landscape
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/mx-and-mrs-x.jpg
+  caption: Mx. and Mrs. X
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/narley.jpg
+  caption: Winona, the Winter Soldier
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/nicenight.jpg
+  caption: It was a Nice Night
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/nita-casual.jpg
+  caption: Nita Ohm
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/nitayes.jpg
+  caption: Nita Ohm
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/noriko.png
+  caption: Noriko Akatsuki
+  orientation: landscape
+  artist: Credit to DarthGlowstick#1130 on Discord
+
+- url: img/panxavier.png
+  caption: Pansexual Pride Xavier Wolfe
+  orientation: portrait
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/pride.png
+  caption: Asexual Pride Wolverine
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/pridehex.png
+  caption: Asexual Pride Weapon Hex
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/roar.jpg
+  caption: We are Havoc – Hear Us Roar
+  orientation: portrait
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/sharks.jpg
+  caption: Zaviona (The Hosts)
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/soulmatespell.png
+  caption: The Soulmark
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+  
+- url: img/spiderfang.jpg
+  caption: Spider-Fang
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/totally_not_a_demon.jpg
+  caption: Winona Windsor
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
+- url: img/weaponhex.png
+  caption: Weapon Hex
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: img/ever_just.jpg
+  caption: Ever Have One of Those Days?
+  orientation: landscape
+  artist: Credit to Katie♡#2465 on Discord
+
