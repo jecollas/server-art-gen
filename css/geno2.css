@@ -40,6 +40,39 @@ body p {
 
 }
 
+.portrait {
+  border-radius: 12%;
+}
+
+.landscape {
+  border-radius: 15%;
+}
+
+.row {
+  padding: 2em;
+}
+
+.column {
+  -ms-flex: 25%;
+  flex: 25%;
+  max-width: 25%;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  padding: 1em;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
 footer {
   background-color: #2F3136;
   color: #FFFFFF;
@@ -124,37 +157,6 @@ omega icon yellow: #FBD203;
   color: #F1F1F2;
 }
 
-/* .nav-pills .pill-1 .nav-link:hover {
-  background-color: #EE1C25;
-  color: #F1F2F2;
-}
-
-.nav-pills .pill-2 .nav-link:hover,
-.nav-pills .pill-2 .dropdown-item:hover,
-.nav-pills > li.show > a:focus,
-.nav-pills > li.show > a:not(:focus) {
-  background-color: #2989FF;
-  color: #F1F2F2;
-  outline: none;
-} */
-
-/* .nav-pills > li.show > a:focus,
-.nav-pills > li.show > a:not(:focus) {
-  background-color: #38BBCC;
-  color: #F1F2F2;
-  outline: none;
-} */
-
-/* .nav-pills .pill-3 .nav-link:hover {
-  background-color: #F1C40E;
-  color: #F1F2F2;
-} */
-
-/* .nav-pills .pill-2a .dropdown-item:hover {
-  background-color: #38BBCC;
-  color: #F1F2F2;
-} */
-
 .nav-pills .nav-link:hover,
 .nav-pills .dropdown-item:hover,
 .nav-pills > li.show > a:focus,
@@ -162,4 +164,17 @@ omega icon yellow: #FBD203;
   background-color: #2989FF;
   color: #F1F2F2;
   outline: none;
+}
+
+/* .grid-sizer,
+.grid-item { 
+  width: 20%;
+} */
+
+/* 3 columns by default */
+.grid-sizer { width: 33.333%; }
+
+@media screen and (min-width: 768px) {
+  /* 5 columns for larger screens */
+  .grid-sizer { width: 20%; }
 }
