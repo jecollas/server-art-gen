@@ -41,11 +41,11 @@ body p {
 }
 
 .portrait {
-  border-radius: 12%;
+  border-radius: 10%;
 }
 
 .landscape {
-  border-radius: 15%;
+  border-radius: 10%;
 }
 
 .row {
@@ -71,6 +71,7 @@ body p {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   padding: 0 4px;
+  padding-bottom: 2em;
 }
 
 .info {
@@ -185,21 +186,31 @@ omega icon yellow: #FBD203;
   outline: none;
 }
 
-@media only screen and (max-width: 800px) {
-  body {
-    padding: 1em;
+.topside a {
+  text-align: center;
+  text-decoration: none;
+  color: #202428;
+  padding: 2em;
+}
+
+.topside a:hover {
+  /* color: #87898B; */
+  color: #EE1C25;
+}
+
+/* @media only screen and (max-width: 1200px) {
+   .column {
+     -ms-flex: 33.33333%;
+     flex: 33.33333%;
+     max-width: 33.33333%;
   }
+} */
+/* figure out how to make four columns three for a responsive experience, then add this */
+
+@media screen and (max-width: 800px) {
    .column {
      -ms-flex: 50%;
      flex: 50%;
      max-width: 50%;
-  }
- }
-
- @media screen and (max-width: 600px) {
-   .column {
-     -ms-flex: 100%;
-     flex: 100%;
-     max-width: 100%;
    }
- }
+}
