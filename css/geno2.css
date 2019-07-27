@@ -1,7 +1,8 @@
 /*geno2.css*/
 
-html {
-  background-color: #FFFFFF;
+html,
+body {
+  background-color: #F8F9FA;
 }
 
 body,
@@ -11,8 +12,8 @@ footer {
 }
 
 h1 {
-  margin-left: 1em;
-  margin-top: .5em;
+  padding-left: 1em;
+  padding-top: .5em;
 }
 
 body p {
@@ -111,6 +112,10 @@ nav {
   padding-top: 15px;
   padding-bottom: 10px;
   border-color: transparent;
+}
+
+header {
+  background-color: #F1F1F2;
 }
 
 /* Hamburger bar button */
@@ -214,3 +219,69 @@ omega icon yellow: #FBD203;
      max-width: 50%;
    }
 }
+
+table {
+  float: right;
+  color: #202428;
+  background-color: #F1F1F2;
+  width: 300px;
+  margin: 1em;
+}
+
+img.center {
+  vertical-align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
+}
+
+.notif {
+  text-align: center;
+}
+
+.plainlist ul {
+  list-style: none none;
+}
+
+/*
+th {
+  width: 40%;
+}
+
+.plainlist ol, .plainlist ul {
+    line-height: inherit;
+    list-style: none none;
+    margin: 0
+}
+
+.plainlist ol li, .plainlist ul li {
+    margin-bottom: 0
+}
+
+.infobox {
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em
+}
+
+.infobox caption {
+    font-size: 125%;
+    font-weight: bold;
+    padding: 0.2em;
+    text-align: center
+}
+
+.infobox td, .infobox th {
+    vertical-align: top;
+    text-align: left
+}
+*/
