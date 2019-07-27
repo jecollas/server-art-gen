@@ -12,7 +12,7 @@
 #81 images
 
 gallery1:
-#21 images
+#23 images
 - url: tb/enna-smaw.png
   caption: Enna
   orientation: portrait
@@ -118,8 +118,18 @@ gallery1:
   orientation: portrait
   artist: Credit to mariquita#6121 on Discord
 
+- url: tb/gotenna.png
+  caption: Lady Enna of House Titan
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
+- url: tb/ennangelinewedding.png
+  caption: Let's Get Married
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
 gallery2:
-#20 images
+#21 images
 - url: tb/bea.jpg
   caption: Beatrice Muse
   orientation: portrait
@@ -220,8 +230,13 @@ gallery2:
   orientation: portrait
   artist: Credit to Katie♡#2465 on Discord
 
+- url: tb/prowler.jpg
+  caption: The Prowler
+  orientation: portrait
+  artist: Credit to Dex Maximun#1672 on Discord
+
 gallery3:
-#20 images
+#22 images
 - url: tb/wendigopink.jpg
   caption: Wendigona
   orientation: landscape
@@ -322,8 +337,18 @@ gallery3:
   orientation: portrait
   artist: Credit to Morgan#3114 on Discord
 
+- url: tb/ennasplatoon.png
+  caption: Splatoon'd
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
+- url: tb/blastme.jpg
+  caption: C'mon, Blast Me
+  orientation: landscape
+  artist: Credit to mariquita#6121 on Discord
+
 gallery4:
-#20 images
+#22 images
 - url: tb/lesbianwolvie.png
   caption: Lesbian Pride Wolverine
   orientation: portrait
@@ -423,3 +448,13 @@ gallery4:
   caption: Ever Have One of Those Days?
   orientation: landscape
   artist: Credit to Katie♡#2465 on Discord
+
+- url: tb/knifecat.jpg
+  caption: Are You Sure About That?
+  orientation: portrait
+  artist: Credit to mariquita#6121 on Discord
+
+- url: tb/vampenna.png
+  caption: Enna of the Night
+  orientation: landscape
+  artist: Credit to Smaw-#0294 on Discord
