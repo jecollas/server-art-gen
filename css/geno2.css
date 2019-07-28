@@ -192,11 +192,12 @@ omega icon yellow: #FBD203;
 }
 
 .topside a {
+  display: block;
   text-align: center;
   text-decoration: none;
   color: #202428;
   padding: 2em;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .topside a:hover {
