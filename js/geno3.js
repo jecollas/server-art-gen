@@ -1,11 +1,11 @@
 
-var modal = document.getElementById('fanartModal');
+var modal = document.getElementById('fanartModalA');
 function openModal() {
-  document.getElementById('fanartModal').style.display = "block";
+  document.getElementById('fanartModalA').style.display = "block";
 }
 
 function closeModal() {
-  document.getElementById('fanartModal').style.display = "none";
+  document.getElementById('fanartModalA').style.display = "none";
 }
 
 var slideIndex = 1;
@@ -25,7 +25,7 @@ function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("artModal");
 
-  var captionText = document.getElementById("caption");
+  var captionText = document.getElementById("captionA");
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
