@@ -196,6 +196,7 @@ omega icon yellow: #FBD203;
   text-decoration: none;
   color: #202428;
   padding: 2em;
+  font-size: 20px;
 }
 
 .topside a:hover {
@@ -203,21 +204,97 @@ omega icon yellow: #FBD203;
   color: #EE1C25;
 }
 
-/* @media only screen and (max-width: 1200px) {
-   .column {
-     -ms-flex: 33.33333%;
-     flex: 33.33333%;
-     max-width: 33.33333%;
-  }
-} */
-/* figure out how to make four columns three for a responsive experience, then add this */
+.modal {
+  display: none;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.9);
+}
 
-@media screen and (max-width: 800px) {
-   .column {
-     -ms-flex: 50%;
-     flex: 50%;
-     max-width: 50%;
-   }
+.row > .column {
+  padding: 0 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.modal-content {
+  margin:auto;
+  display: block;
+  height: inherit;
+  width: 90%;
+}
+
+.artModal {
+  display: none;
+  height: inherit;
+  max-height: inherit;
+  max-width: auto;
+}
+
+.artModal img {
+  width: 80%;
+  height: auto;
+  max-width: 600px;
+  align-content: center;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: block;
+}
+
+.caption-container {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  height: 150px;
+}
+
+.info-2 {
+  text-align: center;
+  font-size: 25px;
+  color: #FFFFFF;
+  padding-bottom: 100px;
+  padding-top: 10px;
+}
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 50px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.info {
+  text-align: center;
+  font-size: 18px;
 }
 
 table {
@@ -243,6 +320,23 @@ img.center {
 
 .plainlist ul {
   list-style: none none;
+}
+
+/* @media only screen and (max-width: 1200px) {
+   .column {
+     -ms-flex: 33.33333%;
+     flex: 33.33333%;
+     max-width: 33.33333%;
+  }
+} */
+/* figure out how to make four columns three for a responsive experience, then add this */
+
+@media screen and (max-width: 800px) {
+   .column {
+     -ms-flex: 50%;
+     flex: 50%;
+     max-width: 50%;
+   }
 }
 
 /*
