@@ -128,6 +128,21 @@
   orientation: portrait
   artist: Credit to Smaw-#0294 on Discord
 
+- url: img/carloscop.png
+  caption: Officer Indigo
+  orientation: portrait
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/carlegz.jpg
+  caption: Carlegz
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/adorablezovier.png
+  caption: Let them Rest
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
 #gallery2:
 #21 images
 - url: img/bea.jpg
@@ -235,6 +250,21 @@
   orientation: portrait
   artist: Credit to Dex Maximun#1672 on Discord
 
+- url: img/gotfrenzy.png
+  caption: The Frenzy
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/nextgenladies.jpg
+  caption: The Next Generation of Heroes
+  orientation: landscape
+  artist: Credit to Bio-blegh#6677 on Discord
+
+- url: img/starjacket.png
+  caption: He's a Starboy
+  orientation: portrait
+  artist: Credit to Anuk#4832 on Discord
+
 #gallery3:
 #22 images
 - url: img/wendigopink.jpg
@@ -257,10 +287,10 @@
   orientation: portrait
   artist: Credit to Ga4l#8615 on Discord
 
-- url: img/prowler-quinjet.png
-  caption: The Prowler's Quinjet
+- url: tb/leataxes.png
+  caption: Lea Doesn't Pay Taxes
   orientation: landscape
-  artist: Credit to Dex Maximun#1672 on Discord
+  artist: Credit to Morgan#3114 on Discord
 
 - url: img/suni.jpg
   caption: Suni Ohm
@@ -346,6 +376,21 @@
   caption: C'mon, Blast Me
   orientation: landscape
   artist: Credit to mariquita#6121 on Discord
+
+- url: img/gothavoc.png
+  caption: The Havoc
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/momnita.png
+  caption: The Coolest Mom Ever
+  orientation: portrait
+  artist: Credit to displaced knight#2327 on Discord
+
+- url: img/athceif.png
+  caption: A Thceif
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
 
 #gallery4:
 #22 images
@@ -458,3 +503,13 @@
   caption: Enna of the Night
   orientation: landscape
   artist: Credit to Smaw-#0294 on Discord
+
+- url: img/snofthugs.png
+  caption: Snoft Hugs
+  orientation: portrait
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/yellowlantern.jpg
+  caption: Welcome to the Sinestro Corps
+  orientation: landscape
+  artist: Credit to displaced knight#2327 on Discord
