@@ -1,0 +1,53 @@
+{% assign chara = site.data.descref[page.chara] %}
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="{{ chara.image }}" class="descimg"></img></td>
+    </tr>
+    <tr>
+    <tr>
+      <th class="notif" colspan="2">{{ chara.name }}</th>
+    </tr>
+    <tr>
+      <th scope="40%">Name</th>
+      <td>{{ chara.name }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Character</th>
+      <td>{{ chara.character }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Universe</th>
+      <td>{{ chara.universe }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Age</th>
+      <td>{{ chara.age }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Pronouns</th>
+      <td>{{ chara.pronouns }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Sexuality</th>
+      <td>{{ chara.sexuality }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Personality</th>
+      <td>{{ chara.personality | newline_to_br }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Backstory</th>
+      <td>{{ chara.backstory | newline_to_br }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Trivia</th>
+      <td>{{ chara.other | newline_to_br }}</td>
+    </tr>
+    <tr>
+      <th scope="40%">Appearance</th>
+      <td>{{ chara.looks | newline_to_br }}</td>
+    </tr>
+  </tbody>
+</table>
