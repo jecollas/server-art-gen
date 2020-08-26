@@ -1,35 +1,166 @@
-- info: Ahrel
+  dakota:
+    name: Dakota Reynolds
+    character: Iron Man
+    universe: Alpha
+    age: 15
+    pronouns: He/him
+    sexuality: Gay
+    personality: Dakota
+    backstory: |
+      Dakota is a sort of child genius who is able to invent and improve new technologies with ease. He has always been a straight A student in school, and has even skipped a few grades when he was younger. He has a bit of trouble passing classes now because well, he doesn't show up for any of them. He doesn’t find the need to since he inherited his parents' fortune and has everything he could ever need at Reynolds Tower.
 
-- info: Dakota Reynolds
+      Even before his parents went missing before his fifteenth birthday, he had been a young delinquent, using his gadgets and tools to execute pranks on teachers and the few unfortunate people he holds petty grudges against. He built his Iron Man suit because he found out pretty quick that flying around and fighting villains was just as fun as it looked, plus he got bonus points for actually protecting the people of New York. Dakota’s a rude kid, but he has a good heart somewhere in there.
+    other: Dakota
+    looks: Dakota has silky black hair, hazel eyes, and a fair complexion. He always wears expensive clothes just to show them off.
 
-- info: Jesse Foster
+  jesse:
+    name: Jesse Foster
+    character: The Winter Soldier
+    universe: Alpha
+    age: He isn't really sure, but he thinks that he's somewhere around 16/17
+    pronouns: He/him
+    sexuality: Questioning, either gay or bi
+    personality: Jesse is kind of standoffish and easy to anger, but once you get past that he's soft. He's a self-blaming, self-hating, traumatized kid but he tries to be a kind one. As his story continues, he'll start to let his true personality shine through. He's snarky, sarcastic, always ready to Fight(TM), but he also just really wants a nap. He has a protective streak a mile wide and is honestly kind of a nerd. He had just freed himself from HYDRA after its collapse, so he's a bit unstable to say the least.
+    backstory: Jesse doesn't remember his life before he was taken. Maybe he was a preteen, maybe he was already a teen, maybe he was a kid. Sometimes he remembers (in fragments, but for the most part), but he only remembers pain. His memory problems persist and he's prone to forgetfulness, which is a side effect of whatever the hell HYDRA did to him.
+    other: He feels like he's looking for someone, but he isn't sure who.
+    looks: |
+      Jesse has shoulder-length brown hair. His hair is wavy, has a golden undertone, and darkens in the wintertime. He wears it in a high ponytail because he likes the way it swishes. He's roughly 5'9", so he's not super tall but he's not too short either.
 
-- info: Marcus Gunderson
+      Jesse looks scrawny, but his clothes hide a muscular build. He has a metal right arm and a metal left leg. Sometimes when he's in a joking mood, he jokes that they balance each other out. He's pale and has circles under his eyes. He has a kind of square, kind of round face, a hooked nose, and eyes that have been a topic of dispute. Are they blue? Gray? Green? Nobody knows. He doesn't even know.
 
-- info: Zoe Davis
+  zoe:
+    name: Zoe Davis
+    character: Venom
+    universe: Alpha
+    age: 21
+    pronouns: She/her
+    sexuality: Bisexual
+    personality: Zoe is really anxious about 90% of the time. She is especially so around others because she has Venom as a second pet. Trying to buy food for them is just as painful as it sounds.
+    backstory: Zoe is not that interesting as a person, but after being hit with the news that a close family member passed away she decided to adopt a dog to keep her company. After the dog, Gizmo, made himself at home in her tiny apartment, he started to act a bit... strange. He needed more food than the recommended amount for a dog his size, among other things. Zoe didn't really have time to visit the vet so she just thought that this was normal for a growing dog. That changed after she was attacked by a crazy ex boyfriend. Gizmo stepped in and ate him. Zoe was terrified after this, but learned to appreciate the new part of her furry companion.
+    other: Gizmo is the one that becomes Venom's host. Zoe just carries around hair spray and a lighter in case they decide not to listen.
+    looks: Zoe has short blonde hair that curls at her shoulders. She usually wears sweatshirts and other dull colors. Her dog, Gizmo, is a medium size boxer who is attached to Zoe by the hip.
 
-- info: Daniel Adam Nation
+  jaime:
+    name: Jaime Barnes
+    character: The Winter Soldier
+    universe: Beta
+    age: 75 (looks 18-20)
+    pronouns: They/them
+    sexuality: ????
+    personality: Jaime is quiet, broody, and extremely intelligent. They don't talk to anyone that they don't know. They are very much on edge and aware of their surroundings at all times. They are very bad at Social Interaction.
+    backstory: |
+      Jaime was made in the 1940's from the severed from the severed arm of the Initial Winter Soldier. They were grown as a clone and trained by HYDRA to become the ultimate killing machine. After a good amount of time, the Initial began to secretly teach them what it meant to be more than a gun.
 
-- info: Donnathan 'Donni' Dimitries
+      Between assassination plots and seventy years in and out of cryo-sleep, Jaime found their name, who they could trust, and their humanity. In the present day they awoke to find that they were alone. Their base had been abandoned, the Initial was gone, and there were no orders to go off of. Now they've chosen to try and wash the blood from their hands while they explore the bright new world of the present day.
+    other: |
+      The Initial Winter Soldier (Bucky Barnes) is the only one that Jaime really considers themself close to. They look nothing alike due to the "donated" set of genes used to fully create them, but Bucky is the closest that Jaime has to a familial relationship. They're still looking for him.
 
-- info: Jaime Taylor Barnes
+      Jaime really likes cats, and they have a little black kitten that likes to follow them around. They don't really have any kind of citizenship, so they've taken to stealing and burglary to supply money for food and such. They currently live with Winona and Havoc.
+    looks: Jaime has brown hair that's cut in a pixie style with long bangs. Their eyes are grey and slanted and their skin is a yellow-tan color. They stand at 5'8", they are slender but well muscled, and they are androgynous as f***
 
-- info: Lea
+  lea:
+    name: Lea
+    character: Rufus the Cat
+    universe: Beta
+    age: 4 in cat years, 26 in human years
+    pronouns: She/her
+    sexuality: Lesbian
+    personality: Lea is very sarcastic and very dumb, exactly how every cat should be. Think Salem from Sabrina the Teenage Witch
+    backstory: Lea was the pet of an evil scientist, who experimented on her and gave her powers. She was rescued by a band of runaway heroes and now fights crime as she travels with them.
+    other: Lea's powers include telepathy and bioluminescence
+    looks: Lea is a medium-sized cat with dark brown fur and green eyes. She has the marking of a crescent moon on the outside of her right eyes and wears a green collar with her name engraved on a fish-shaped tag.
 
-- info: Melissa Price
+  melissa:
+    name: Melissa Price
+    character: Wolverine
+    universe: Beta
+    age: 96
+    pronouns: She/her
+    sexuality: Asexual Biromantic
+    personality: Melissa is usually tired and just wants to be left alone. She gives off a grumpy dad vibe and acts as such. She is a drifter who has an arsenal of random skills as the result of taking on various odd jobs throughout the years. She doesn't like talking about herself and struggles with opening up about her life and her emotions. She's working on it, though.
+    backstory: |
+      Melissa was born Mildred Susanna Price in late November of 1922. Her father died when she was six, her brother vanished when she was eight, her mutant powers manifested when she was nine, and both her mother and grandmother died just after she turned ten. She lived the next couple of years as a homeless orphan and moved from one Hooverville to the next as the Great Depression continued on.
 
-- info: Nita Ohm
+      She joined a traveling circus when she was twelve and performed as The Jungle Girl in Edwin Bowen's Traveling Circus and Freak Show. Bowen attempted to assault her when she was sixteen, and the ensuing conflict ultimately ended up with Melissa arrested and imprisoned in a mental institution. She was eighteen when Colonel William Stryker approached her and offered her a place in the Weapon X program, an offer that Melissa quickly accepted.
 
-- info: Winona Windsor
+      Melissa fought in World War Two, the Korean War, and the Vietnam War before fully settling in the United States with her wife and son. She was not allowed to publically call them her wife and son because being homosexual was illegal and because society frowned upon mixed couples. It was during that decade-long period that Melissa joined the X-Men and operated under the codename Wolverine until she quit in 1976 and went into hiding in 1978. Melissa spent the next forty years living in isolation and self-imposed exile until her wife died in 2020.
 
-- info: Enna
+      Since then, she realized her feelings for Jaime Barnes and pursued a relationship with them after fighting her way through HYDRA forces for six months. They're engaged now.
+    other: Melissa likes animals, and animals like her. Her mutation has given her enhanced senses and various animal characteristics on top of her bone claws and Adamantium-laced skeleton.
+    looks: Melissa is short and muscular. She stands at 5'0" and weighs in at just under 300lbs. Her hair is long, wild, curly, and a brown so dark that it's almost black. Her eyes are of a similar color, and her expression is almost always that of a scowl or glare. She prefers wearing jeans and tank tops over more appropriate types of clothing, but will occasionally dabble in dressing nicer should the mood strike.
+    image: tb/melissa-ref.png
 
-- info: Noriko Akatsuki
+  enna:
+    name: Enna
+    character: Gamora
+    universe: Omega
+    age: 22
+    pronouns: She/her
+    sexuality: Gay
+    personality: Enna is a defensive person and snaps at anyone who tries to dig into her past. She flinches and steps away out of instinct when other people try to hug or touch her.
+    backstory: Enna was taken from her planet at a very young age and grew up with her adopted father, Thanos. She was abused mentally, emotionally, and sometimes physically by those around her, which caused her to grow harsh and closed off. She learned to do as her father told her to avoid getting punished. Enna became a ruthless assassin who killed without mercy. But when she was tasked to kill a woman in front of her children, Enna fled the scene and took her spaceship around the galaxy before finally landing on Earth.
+    other: Enna dresses however she wants to. Hoodie and cargo pants? Sure! Revealing mini dress? Of course!
+    looks: Enna is of average height and build. She has emerald green skin, brown eyes, and black hair that has been shaved off at the sides and dyed purple. There is a long scar that cuts through the left side of Enna's face and stretches from her cheek, over her eye, above her eyebrow. There is another scar on her right cheek that reaches down past her jaw. Similar scars litter her entire body.
 
-- info: Rowsam Raheb
+  tien:
+    name: Tien Freyason
+    character: Loki Laufeyson
+    universe: Omega
+    age: ????
+    pronouns: They/them
+    sexuality: Pansexual
+    personality: Whatever word is more powerful than ‘flamboyant’, that’s Tien. They're very cunning and are more than willing to use their abilities to get their way. Despite this, they’re pretty friendly.
+    backstory: After being shown up and overstepped one too many times by their brother Thor, Tien up and left Asgard and became a professional piercer. Internet famous via the parlor’s Instagram, Tien enjoys the attention they get.
+    other: Some strengths of theirs are that they are a master of manipulation and deceit, have superhuman strength, speed, endurance, and longevity, astral projection, energy blasts, flight, illusion casting, inter-dimensional teleportation, shapeshifting, and telepathy (taken from comic canon).
+    looks: Tien is 6'. They are kinda lanky but stronger than they look. They have various tattoos with motifs of snakes.
 
-- info: Victoria 'Tori' Austere
+  xavier:
+    name: Xavier Itzel Wolfe
+    character: Venom
+    universe: Omega
+    age: 21
+    pronouns: He/him
+    sexuality: Pansexual
+    personality: |
+      While Xavier’s resting face can be rather dark and intimidating, he’s really just a big dork… who’s incredibly anxious and awkward in any social situations. He also has a nervous stutter and sometimes resorts to drinking in hopes of toning it down.
 
-- info: Xaver 'X' Wolfe
+      Lately, though, he’s become less and less like himself. He does his best to be polite, but finds it hard to feel much aside from irritation around others. His voice has gotten less energetic, as impossible as that seems, and even the little things like seeing the stars at night don’t excite him as much. Despite his trust issues and habit of burying emotions, Xavier is still loyal to those he’s bonded with. And perhaps a bit too selfless.
+    backstory: |
+      TORTURE, ABUSE/MANIPULATION, AND ALCOHOLISM
 
-- info: Z Quill
+      For most of his life, Xavier has lived in a small town in Quebec along with his two little sisters, his mother, and his <strike>shitty</strike> father. Xavier met a strange-looking dog named Frenzy when he was eleven and soom learned that Frenzy was <em>not</em> entirely a dog, but an alien symbiote. For the next few years Xavier and Frenzy were friends still learning about each other. Eventually, Xavier decided to become Frenzy's host. It was fine for a while; Frenzy kept Xavier's anxiety in check and helped him hide his various bruises and scars. Of course, Xavier's luck soon ran out.
+
+      The catalyst was a heated, one-sided argument that involved Xavier's father and one of his sisters. Xavier, who was still a young teenager, was filled with anger and the desire to protect his siblings so he gave Frenzy permission to suit up. The situation ended with Frenzy mauling Xavier's father and scaring the rest of his family out of their minds. Xavier and Frenzy both fled, and soon Xavier had convinced himself that his mother and sisters would be better off without him.
+
+      Xavier spent the next few years on his own, moving from place to place and avoiding the authorities as best as he could. He became something of a <strike>cryptid</strike> vigilante wherever he went during that time. Nowadays, hiding out in abandoned buildings during the day and taking out the occasional criminal at night has become something of a routine for Xavier and Frenzy.
+
+      Xavier has endured far too many things in life, in his opinion. The first tragedy involved his symbiote, Frenzy, attacking his father and forcing Xavier to run away from his home in Quebec. Then, after a few years of living on the streets and traveling from town to town, he ended up learning about other universes and the collider in New York. He made many friends and acquaintances from other dimensions, even forming a polyamorous relationship with two other symbiote hosts, Winona and Zoe.
+
+      Not all good things came of his misadventures, though. He suffered experiments from the Life Foundation, got attacked by one of his partners while she was possessed by an eldritch being, and was temporarily captured once more by a gang of masked criminals, just to name a few. As if that wasn’t enough for him, Frenzy had shown their true colors, possessing and manipulating him to the point of getting him stuck in fight rings and a drug lord’s employment. It only got worse, until Frenzy was fought and chased off by Winona and her own symbiote, Havoc.
+
+      As absurd as all the ordeals were, Xavier survived but was far from unscathed. He has more scars than he can count - both physical and mental.
+    other: Even though he won't admit it, Xavier is a complete nerd about space. The sight of blood usually makes him sick, and he is a little claustrophobic. He does not like hospitals and labs. Frenzy's pronouns are they/them and he/him.
+    looks: |
+      Xavier is 6'3" in height and usually looks exhausted. He is surprisingly strong, but he’s started getting some pudge after so long without a symbiote. His many scars, aside from the few on his face and neck, are typically hidden by long sleeves.
+
+      Frenzy, the symbiote, is solid black in color and looks like a normal symbiote aside from their snout and the two ear-like points on either side of their head. When Xavier and Frenzy are fully suited up and standing, they're roughly 8'2".
+
+  zquill:
+    name: Z Quill
+    character: Star Lord
+    universe: Omega
+    age: 17
+    pronouns: They/them
+    sexuality: Homoflexible
+    personality: |
+      Z is sarcastic, sassy, cocky, and overconfident. They are known for having a sour and loud mouth that has no filter. Their brash and abrasive personality is enough for many to brush them off as nothing more than a rude and proud dealing, but a little more time spent with them reveals the true extent of Z's grey morals and the fact that they have a huge sense of humor. It's hard to earn their respect, but once it's gained it's gained forever.
+
+      Z is loyal to the end and can be counted on through thick and thin, but they are similarly just as untrusting. This combination leads to odd relationships but with Z's uninterested demeanor and general disregard for their own safey, it is a safe bet to say that any adventures that stem from their chaos will be interesting ones.
+    backstory: |
+      Z was unintentionally chucked into their life as Star Lord. When they were twelve they saw someone getting mugged and ran to the rescue, but they weren't able to fight very well because of their age. The mugger in question was an alien crime lord in disguise who kidnapped Z and forced them to work as an underling.
+
+      Out in space with no way home, Z had no choice but to learn the ways of space crime and ended up taking a liking to it. When they were older and had learned a couple of tricks from their crew, Z stole a space cruiser and piloted it back to Earth. Unfortunately the ship was marked as an enemy and shot down once Z was within Earth's atmosphere.
+
+      Z crashed in a section of woods and left their ship behind so that they wouldn't be detained and questioned. They ran to the nearest city. From there Z began to search for somewhere they could get a new ship.
+    other: Z's only possession from before they were kidnapped is a green woven bracelet.
+    looks: Z has a pale complexion, sandy blond hair, and green eyes. They carry an elemental gun from their time working as part of the crime lord's crew and wear an old long red coat that's covered in stitches and patches that speak of years of use.
