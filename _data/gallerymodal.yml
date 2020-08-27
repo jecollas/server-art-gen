@@ -6,6 +6,7 @@
 # Credit to Bio-blegh#6677 on Discord
 # Credit to DarthGlowstick#1130 on Discord
 # Credit to Ga4l#8615 on Discord
+# Credit to Hedgie#0980 on Discord
 
 #gallery1:
 - url: img/enna-smaw.png
@@ -28,11 +29,6 @@
   orientation: landscape
   artist: Credit to Anuk#4832 on Discord
 
-- url: img/valentines.png
-  caption: Happy Valentines Day!
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
-
 - url: img/agender-pride.png
   caption: Agender Pride
   orientation: portrait
@@ -42,11 +38,6 @@
   caption: Murder Wives WLW Pride
   orientation: landscape
   artist: Credit to Smaw-#0294 on Discord
-
-- url: img/post-kaboom.png
-  caption: Kaboom Aftermath
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
 
 - url: img/candy-gore.png
   caption: Candy Gore
@@ -68,18 +59,8 @@
   orientation: landscape
   artist: Credit to Anuk#4832 on Discord
 
-- url: img/venomxavier.png
-  caption: Xavier Wolfe
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
-
 - url: img/venomdog.png
   caption: Frenzy
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
-
-- url: img/xavier-meme.png
-  caption: This is so sad, Anuk post the Ben Afflek Meme
   orientation: landscape
   artist: Credit to Anuk#4832 on Discord
 
@@ -87,11 +68,6 @@
   caption: Annalese
   orientation: portrait
   artist: Credit to Katie♡#2465 on Discord
-
-- url: img/edgy.png
-  caption: Are They Edgy Yet?
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
 
 - url: img/weaponx.jpg
   caption: Weapon X, c.1941
@@ -113,16 +89,21 @@
   orientation: portrait
   artist: Credit to Smaw-#0294 on Discord
 
+- url: img/adorablezovier.png
+  caption: Let them Rest
+  orientation: landscape
+  artist: Credit to Anuk#4832 on Discord
+
+- url: img/everyones_fav_lesbians.png
+  caption: Everyone's Favorite Lesbians
+  orientation: portrait
+  artist: Credit to Smaw-#0294 on Discord
+
 #gallery2:
 - url: img/bisc.jpg
   caption: Biscuit, the Best and Roundest
   orientation: landscape
   artist: Credit to Katie♡#2465 on Discord
-
-- url: img/blushboy.jpg
-  caption: Xavier Wolfe
-  orientation: portrait
-  artist: Credit to Anuk#4832 on Discord
 
 - url: img/body.jpg
   caption: Reyna O'Connor
@@ -193,11 +174,6 @@
   caption: Let's Get Married
   orientation: portrait
   artist: Credit to Smaw-#0294 on Discord
-
-- url: img/adorablezovier.png
-  caption: Let them Rest
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
 
 - url: img/A_homosexual.png
   caption: Enna
@@ -270,11 +246,6 @@
   orientation: landscape
   artist: Credit to Anuk#4832 on Discord
 
-- url: img/athceif.png
-  caption: A Thceif
-  orientation: landscape
-  artist: Credit to Anuk#4832 on Discord
-
 - url: img/cheezits.JPG
   caption: Cheez-it Suprise
   orientation: portrait
@@ -300,11 +271,6 @@
   orientation: portrait
   artist: Credit to Smaw-#0294 on Discord
 
-- url: img/everyones_fav_lesbians.png
-  caption: Everyone's Favorite Lesbians
-  orientation: portrait
-  artist: Credit to Smaw-#0294 on Discord
-
 #gallery4:
 #17 images
 - url: img/lesbianwolvie.png
@@ -326,11 +292,6 @@
   caption: It was a Nice Night
   orientation: portrait
   artist: Credit to mariquita#6121 on Discord
-
-- url: img/panxavier.png
-  caption: Pansexual Pride Xavier Wolfe
-  orientation: portrait
-  artist: Credit to Anuk#4832 on Discord
 
 - url: img/ace-pride.png
   caption: Asexual Pride Wolverine
@@ -362,16 +323,10 @@
   orientation: landscape
   artist: Credit to Smaw-#0294 on Discord
 
-- url: img/snofthugs.png
-  caption: Snoft Hugs
-  orientation: portrait
-  artist: Credit to Anuk#4832 on Discord
-
 - url: img/starjacket.png
   caption: He's a Starboy
   orientation: portrait
   artist: Credit to Anuk#4832 on Discord
-
 
 - url: img/Gem_Enna.png
   caption: Gem Enna

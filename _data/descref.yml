@@ -12,6 +12,7 @@
       Even before his parents went missing before his fifteenth birthday, he had been a young delinquent, using his gadgets and tools to execute pranks on teachers and the few unfortunate people he holds petty grudges against. He built his Iron Man suit because he found out pretty quick that flying around and fighting villains was just as fun as it looked, plus he got bonus points for actually protecting the people of New York. Dakota’s a rude kid, but he has a good heart somewhere in there.
     other: Dakota
     looks: Dakota has silky black hair, hazel eyes, and a fair complexion. He always wears expensive clothes just to show them off.
+    image: tb/dakota-ref.jpg
 
   jesse:
     name: Jesse Foster
@@ -57,6 +58,7 @@
 
       Jaime really likes cats, and they have a little black kitten that likes to follow them around. They don't really have any kind of citizenship, so they've taken to stealing and burglary to supply money for food and such. They currently live with Winona and Havoc.
     looks: Jaime has brown hair that's cut in a pixie style with long bangs. Their eyes are grey and slanted and their skin is a yellow-tan color. They stand at 5'8", they are slender but well muscled, and they are androgynous as f***
+    image: tb/jaimeref.jpg
 
   lea:
     name: Lea
@@ -69,6 +71,7 @@
     backstory: Lea was the pet of an evil scientist, who experimented on her and gave her powers. She was rescued by a band of runaway heroes and now fights crime as she travels with them.
     other: Lea's powers include telepathy and bioluminescence
     looks: Lea is a medium-sized cat with dark brown fur and green eyes. She has the marking of a crescent moon on the outside of her right eyes and wears a green collar with her name engraved on a fish-shaped tag.
+    image: learef.png
 
   melissa:
     name: Melissa Price
@@ -88,7 +91,7 @@
       Since then, she realized her feelings for Jaime Barnes and pursued a relationship with them after fighting her way through HYDRA forces for six months. They're engaged now.
     other: Melissa likes animals, and animals like her. Her mutation has given her enhanced senses and various animal characteristics on top of her bone claws and Adamantium-laced skeleton.
     looks: Melissa is short and muscular. She stands at 5'0" and weighs in at just under 300lbs. Her hair is long, wild, curly, and a brown so dark that it's almost black. Her eyes are of a similar color, and her expression is almost always that of a scowl or glare. She prefers wearing jeans and tank tops over more appropriate types of clothing, but will occasionally dabble in dressing nicer should the mood strike.
-    image: tb/melissa-ref.png
+    image: tb/mellieref.png
 
   enna:
     name: Enna
@@ -101,6 +104,7 @@
     backstory: Enna was taken from her planet at a very young age and grew up with her adopted father, Thanos. She was abused mentally, emotionally, and sometimes physically by those around her, which caused her to grow harsh and closed off. She learned to do as her father told her to avoid getting punished. Enna became a ruthless assassin who killed without mercy. But when she was tasked to kill a woman in front of her children, Enna fled the scene and took her spaceship around the galaxy before finally landing on Earth.
     other: Enna dresses however she wants to. Hoodie and cargo pants? Sure! Revealing mini dress? Of course!
     looks: Enna is of average height and build. She has emerald green skin, brown eyes, and black hair that has been shaved off at the sides and dyed purple. There is a long scar that cuts through the left side of Enna's face and stretches from her cheek, over her eye, above her eyebrow. There is another scar on her right cheek that reaches down past her jaw. Similar scars litter her entire body.
+    image: tb/Enna_Redesign.png
 
   tien:
     name: Tien Freyason
@@ -113,37 +117,27 @@
     backstory: After being shown up and overstepped one too many times by their brother Thor, Tien up and left Asgard and became a professional piercer. Internet famous via the parlor’s Instagram, Tien enjoys the attention they get.
     other: Some strengths of theirs are that they are a master of manipulation and deceit, have superhuman strength, speed, endurance, and longevity, astral projection, energy blasts, flight, illusion casting, inter-dimensional teleportation, shapeshifting, and telepathy (taken from comic canon).
     looks: Tien is 6'. They are kinda lanky but stronger than they look. They have various tattoos with motifs of snakes.
+    image: tb/tien-ref.jpg
 
   xavier:
     name: Xavier Itzel Wolfe
-    character: Venom
+    character: Venom (host)
     universe: Omega
-    age: 21
-    pronouns: He/him
+    age: 22 <i>(Oct 29, 1998)</i>
+    pronouns: He/Him
     sexuality: Pansexual
-    personality: |
-      While Xavier’s resting face can be rather dark and intimidating, he’s really just a big dork… who’s incredibly anxious and awkward in any social situations. He also has a nervous stutter and sometimes resorts to drinking in hopes of toning it down.
-
-      Lately, though, he’s become less and less like himself. He does his best to be polite, but finds it hard to feel much aside from irritation around others. His voice has gotten less energetic, as impossible as that seems, and even the little things like seeing the stars at night don’t excite him as much. Despite his trust issues and habit of burying emotions, Xavier is still loyal to those he’s bonded with. And perhaps a bit too selfless.
+    personality: Despite the intimidating guise, Xavier is actually a softie that cares too much. When nervous (always), he stutters and apologizes for the smallest things. He’s stubborn about accepting help or dealing with emotions. His interests include astronomy and 80’s music, though he’ll hesitate to admit it.
     backstory: |
-      TORTURE, ABUSE/MANIPULATION, AND ALCOHOLISM
+      <b><u>(TW: mentions of child abuseand violence)</b></u>
 
-      For most of his life, Xavier has lived in a small town in Quebec along with his two little sisters, his mother, and his <strike>shitty</strike> father. Xavier met a strange-looking dog named Frenzy when he was eleven and soom learned that Frenzy was <em>not</em> entirely a dog, but an alien symbiote. For the next few years Xavier and Frenzy were friends still learning about each other. Eventually, Xavier decided to become Frenzy's host. It was fine for a while; Frenzy kept Xavier's anxiety in check and helped him hide his various bruises and scars. Of course, Xavier's luck soon ran out.
+      Xavier spent his childhood moving from one rural Canadian town to another, most recently in Quebec. He grew up with two younger siblings, his mother, and his father - the latter being rather short-fused. Xavier got into self-sacrificial habits from a young age and always took the blame for whatever his sisters did. It rarely ended well for him.
 
-      The catalyst was a heated, one-sided argument that involved Xavier's father and one of his sisters. Xavier, who was still a young teenager, was filled with anger and the desire to protect his siblings so he gave Frenzy permission to suit up. The situation ended with Frenzy mauling Xavier's father and scaring the rest of his family out of their minds. Xavier and Frenzy both fled, and soon Xavier had convinced himself that his mother and sisters would be better off without him.
+      When he was still a kid, he met a Klyntar named "Frenzy". They intrigued him and the two were fast friends. As a teen, he even became their host, under the conditions that Frenzy would protect him and keep his mind in check. All was well until one evening, during a one-sided argument between his father and one of his sisters, Xavier gave Frenzy permission to intervene. He only wanted to defend his sibling, but the symbiote lashed out viciously. Xavier fled from home, too shaken to face the aftermath of what he caused.
 
-      Xavier spent the next few years on his own, moving from place to place and avoiding the authorities as best as he could. He became something of a <strike>cryptid</strike> vigilante wherever he went during that time. Nowadays, hiding out in abandoned buildings during the day and taking out the occasional criminal at night has become something of a routine for Xavier and Frenzy.
-
-      Xavier has endured far too many things in life, in his opinion. The first tragedy involved his symbiote, Frenzy, attacking his father and forcing Xavier to run away from his home in Quebec. Then, after a few years of living on the streets and traveling from town to town, he ended up learning about other universes and the collider in New York. He made many friends and acquaintances from other dimensions, even forming a polyamorous relationship with two other symbiote hosts, Winona and Zoe.
-
-      Not all good things came of his misadventures, though. He suffered experiments from the Life Foundation, got attacked by one of his partners while she was possessed by an eldritch being, and was temporarily captured once more by a gang of masked criminals, just to name a few. As if that wasn’t enough for him, Frenzy had shown their true colors, possessing and manipulating him to the point of getting him stuck in fight rings and a drug lord’s employment. It only got worse, until Frenzy was fought and chased off by Winona and her own symbiote, Havoc.
-
-      As absurd as all the ordeals were, Xavier survived but was far from unscathed. He has more scars than he can count - both physical and mental.
-    other: Even though he won't admit it, Xavier is a complete nerd about space. The sight of blood usually makes him sick, and he is a little claustrophobic. He does not like hospitals and labs. Frenzy's pronouns are they/them and he/him.
-    looks: |
-      Xavier is 6'3" in height and usually looks exhausted. He is surprisingly strong, but he’s started getting some pudge after so long without a symbiote. His many scars, aside from the few on his face and neck, are typically hidden by long sleeves.
-
-      Frenzy, the symbiote, is solid black in color and looks like a normal symbiote aside from their snout and the two ear-like points on either side of their head. When Xavier and Frenzy are fully suited up and standing, they're roughly 8'2".
+      He now stays in New York, doing odd jobs for money, dealing with Frenzy, and trying to act as a vigilante with his symbiote’s powers. There’s no place for him to call home unless you count the old van he bought off the side of the road. Someday, he wishes to reconnect with his family, but fears they’d shut him out.
+    other: Xavier knows some Spanish and Quebecois, along with a few Nahuatl and Yucatec words from his grandparents. His voice is deep and a little gruff. He poorly copes with stress by dissociating, among other things.
+    looks: 6’3” in height, strong and broad-shouldered but still pudgy. He has shaggy, black hair and dark green eyes. Lots of scars, but most are hidden by his clothes.
+    image: tb/starjacket.png
 
   zquill:
     name: Z Quill
@@ -164,3 +158,4 @@
       Z crashed in a section of woods and left their ship behind so that they wouldn't be detained and questioned. They ran to the nearest city. From there Z began to search for somewhere they could get a new ship.
     other: Z's only possession from before they were kidnapped is a green woven bracelet.
     looks: Z has a pale complexion, sandy blond hair, and green eyes. They carry an elemental gun from their time working as part of the crime lord's crew and wear an old long red coat that's covered in stitches and patches that speak of years of use.
+    image: tb/zquill.png
