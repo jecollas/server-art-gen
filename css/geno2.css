@@ -190,6 +190,41 @@ omega icon yellow: #FBD203;
   outline: none;
 }
 
+p.geno {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  padding: 2em;
+}
+
+button.geno-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  size: 30px;
+  font-size: 24px;
+  padding: 15px 25px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  box-shadow: 0 9px #999;
+  margin-bottom: 20px;
+}
+
+.geno-btn:hover {
+  background-color: #7F8186;
+}
+
+.geno-btn:active {
+  color: #7F8186;
+  background-color: #40444B;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 .topside a {
   display: block;
   text-align: center;
