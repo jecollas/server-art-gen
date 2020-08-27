@@ -1,0 +1,237 @@
+{% assign chara = site.data.descref[page.chara] %}
+
+<!--
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<h2>Animated Sidenav Example</h2>
+<p>Click on the element below to open the side navigation menu.</p>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span> -->
+
+<div id="main">
+<h2 align="center">{{ chara.name }}</h2>
+
+<div align="center">
+<div class="char-top">
+  <figure class="left">
+    <!-- <img src="tb/melissa-ref.png" alt="melissa-ref"> -->
+    <img src="{{ chara.image }}"></img>
+  </figure>
+
+  <div class="rTable">
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Name</b></div>
+    <div class="rTableCell">{{ chara.name }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Character</b></div>
+    <div class="rTableCell">{{ chara.character }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Universe</b></div>
+    <div class="rTableCell">{{ chara.universe }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Age</b></div>
+    <div class="rTableCell">{{ chara.age }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Pronouns</b></div>
+    <div class="rTableCell">{{ chara.pronouns }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Sexuality</b></div>
+    <div class="rTableCell">{{ chara.sexuality }}</div>
+  </div>
+
+</div>
+</div>
+</div>
+
+<div class="rTable">
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Personality</b></div>
+    <div class="rTableCell">{{ chara.personality | newline_to_br }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Backstory</b></div>
+    <div class="rTableCell">{{ chara.backstory | newline_to_br }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Trivia</b></div>
+    <div class="rTableCell">{{ chara.other | newline_to_br }}</div>
+  </div>
+
+  <div class="rTableRow">
+    <div class="rTableHead"><b>Appearance</b></div>
+    <div class="rTableCell">{{ chara.looks | newline_to_br }}</div>
+  </div>
+
+</div>
+
+
+<!-- <body>
+
+<div class="sidenav">
+  <a href="#">Melissa Price</a>
+  <a href="#">Jaime Barnes</a>
+  <a href="#">Winona Windsor</a>
+  <a href="#">Jesse Foster</a>
+</div>
+
+<div class="main">
+  <h2>Sidenav Example</h2>
+  <p>This sidenav is always shown.</p>
+</div>
+
+</body> -->
+
+
+<style>
+
+  .sidenav {
+    display: block;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+  .sidenav a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+  .main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+  }
+
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  @media screen and (max-width: 800px) {
+    .sidenav {
+      display: block;
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+
+    .sidenav a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 25px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+    }
+
+    .sidenav a:hover {
+      color: #f1f1f1;
+    }
+
+    .sidenav .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+  }
+
+</style>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+
+<!-- keep this -->
+
+<div class="pad"></div>
+</div>
+
+<style>
+
+  h2 {
+    margin-top: 20px;
+  }
+
+  .rTable {
+    display: table;
+    <!-- padding: 10px; -->
+  }
+
+  .rTableRow {
+    display: table-row;
+  }
+
+  .rTableCell, .rTableHead {
+    display: table-cell;
+  }
+
+  .rTableHead {
+    padding: 10px;
+  }
+
+  .left img {
+    float: left;
+    height: 268px;
+    max-height: 268px;
+    max-width: auto;
+    display: block;
+    padding: 15px;
+  }
+
+  .char-top img,
+  .char-top rTable {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .pad {
+    padding-bottom: 30px;
+  }
+
+</style>
