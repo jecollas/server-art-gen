@@ -1,174 +1,239 @@
-  dakota:
-    name: Dakota Reynolds
-    character: Iron Man
-    universe: Alpha
-    age: 15
-    pronouns: He/him
-    sexuality: Gay
-    personality: Dakota
-    backstory: |
-      Dakota is a sort of child genius who is able to invent and improve new technologies with ease. He has always been a straight A student in school, and has even skipped a few grades when he was younger. He has a bit of trouble passing classes now because well, he doesn't show up for any of them. He doesn’t find the need to since he inherited his parents' fortune and has everything he could ever need at Reynolds Tower.
+dakota:
+  name: Dakota Reynolds
+  character: Iron Man
+  universe: Alpha
+  age: 15
+  pronouns: He/Him
+  sexuality: Gay
+  personality: Dakota
+  backstory: |
+    Dakota is a sort of child genius who is able to invent and improve new technologies with ease. He has always been a straight A student in school, and has even skipped a few grades when he was younger. He has a bit of trouble passing classes now because well, he doesn't show up for any of them. He doesn’t find the need to since he inherited his parents' fortune and has everything he could ever need at Reynolds Tower.
 
-      Even before his parents went missing before his fifteenth birthday, he had been a young delinquent, using his gadgets and tools to execute pranks on teachers and the few unfortunate people he holds petty grudges against. He built his Iron Man suit because he found out pretty quick that flying around and fighting villains was just as fun as it looked, plus he got bonus points for actually protecting the people of New York. Dakota’s a rude kid, but he has a good heart somewhere in there.
-    other: Dakota
-    looks: Dakota has silky black hair, hazel eyes, and a fair complexion. He always wears expensive clothes just to show them off.
-    image: tb/dakota-ref.jpg
+    Even before his parents went missing before his fifteenth birthday, he had been a young delinquent, using his gadgets and tools to execute pranks on teachers and the few unfortunate people he holds petty grudges against. He built his Iron Man suit because he found out pretty quick that flying around and fighting villains was just as fun as it looked, plus he got bonus points for actually protecting the people of New York. Dakota’s a rude kid, but he has a good heart somewhere in there.
+  other: Dakota
+  looks: Dakota has silky black hair, hazel eyes, and a fair complexion. He always wears expensive clothes just to show them off.
+  image: tb/dakota-ref.jpg
 
-  jesse:
-    name: Jesse Foster
-    character: The Winter Soldier
-    universe: Alpha
-    age: He isn't really sure, but he thinks that he's somewhere around 16/17
-    pronouns: He/him
-    sexuality: Questioning, either gay or bi
-    personality: Jesse is kind of standoffish and easy to anger, but once you get past that he's soft. He's a self-blaming, self-hating, traumatized kid but he tries to be a kind one. As his story continues, he'll start to let his true personality shine through. He's snarky, sarcastic, always ready to Fight(TM), but he also just really wants a nap. He has a protective streak a mile wide and is honestly kind of a nerd. He had just freed himself from HYDRA after its collapse, so he's a bit unstable to say the least.
-    backstory: Jesse doesn't remember his life before he was taken. Maybe he was a preteen, maybe he was already a teen, maybe he was a kid. Sometimes he remembers (in fragments, but for the most part), but he only remembers pain. His memory problems persist and he's prone to forgetfulness, which is a side effect of whatever the hell HYDRA did to him.
-    other: He feels like he's looking for someone, but he isn't sure who.
-    looks: |
-      Jesse has shoulder-length brown hair. His hair is wavy, has a golden undertone, and darkens in the wintertime. He wears it in a high ponytail because he likes the way it swishes. He's roughly 5'9", so he's not super tall but he's not too short either.
+enna:
+  name: Enna
+  character: Gamora
+  universe: Omega
+  age: 22
+  pronouns: She/Her
+  sexuality: Gay
+  personality: Enna is a defensive person and snaps at anyone who tries to dig into her past. She flinches and steps away out of instinct when other people try to hug or touch her.
+  backstory: Enna was taken from her planet at a very young age and grew up with her adopted father, Thanos. She was abused mentally, emotionally, and sometimes physically by those around her, which caused her to grow harsh and closed off. She learned to do as her father told her to avoid getting punished. Enna became a ruthless assassin who killed without mercy. But when she was tasked to kill a woman in front of her children, Enna fled the scene and took her spaceship around the galaxy before finally landing on Earth.
+  other: Enna dresses however she wants to. Hoodie and cargo pants? Sure! Revealing mini dress? Of course!
+  looks: Enna is of average height and build. She has emerald green skin, brown eyes, and black hair that has been shaved off at the sides and dyed purple. There is a long scar that cuts through the left side of Enna's face and stretches from her cheek, over her eye, above her eyebrow. There is another scar on her right cheek that reaches down past her jaw. Similar scars litter her entire body.
+  image: tb/Enna_Redesign.png
 
-      Jesse looks scrawny, but his clothes hide a muscular build. He has a metal right arm and a metal left leg. Sometimes when he's in a joking mood, he jokes that they balance each other out. He's pale and has circles under his eyes. He has a kind of square, kind of round face, a hooked nose, and eyes that have been a topic of dispute. Are they blue? Gray? Green? Nobody knows. He doesn't even know.
+ester:
+  name: Ester Mayer
+  character: Doctor Strange
+  universe: Omega
+  age: 15 <i>(Sept. 20th, 1994)</i>
+  pronouns: She/Her
+  sexuality: Asexual Lesbian
+  personality: While some may mistake Ester for a teacher’s pet, she'll gladly use loopholes and bend the rules to do the right thing. She’s driven by an intense curiosity for just about everything. Under stress, she can keep her composure on the outside, but needs plenty of recharge time after or there’ll be a burst of Hebrew cursing. Aside from that, she speaks formally and clearly.
+  backstory: |
+    Ester was born in the US and raised by her Israeli parents as an only child, with an extended family tree to make up for it. Throughout school, she did rather well at the cost of a more vibrant social life, which was fine to her, at the time. As being a bookworm was second-nature. Then, ironically, she dealt with retail jobs in her teen years. It granted her the ability to remain deadpan in the face of any tantrum-throwing customers (or interdimensional monstrosities).
 
-  zoe:
-    name: Zoe Davis
-    character: Venom
-    universe: Alpha
-    age: 21
-    pronouns: She/her
-    sexuality: Bisexual
-    personality: Zoe is really anxious about 90% of the time. She is especially so around others because she has Venom as a second pet. Trying to buy food for them is just as painful as it sounds.
-    backstory: Zoe is not that interesting as a person, but after being hit with the news that a close family member passed away she decided to adopt a dog to keep her company. After the dog, Gizmo, made himself at home in her tiny apartment, he started to act a bit... strange. He needed more food than the recommended amount for a dog his size, among other things. Zoe didn't really have time to visit the vet so she just thought that this was normal for a growing dog. That changed after she was attacked by a crazy ex boyfriend. Gizmo stepped in and ate him. Zoe was terrified after this, but learned to appreciate the new part of her furry companion.
-    other: Gizmo is the one that becomes Venom's host. Zoe just carries around hair spray and a lighter in case they decide not to listen.
-    looks: Zoe has short blonde hair that curls at her shoulders. She usually wears sweatshirts and other dull colors. Her dog, Gizmo, is a medium size boxer who is attached to Zoe by the hip.
+    For a few years, Ester has studied at the Sanctum Sanctorum of New York. Her fascination with the unknown and knack for magic lead her to be a skilled apprentice of the resident Sorcerers and, eventually, Sorcerer Supreme-in-training. While she still lives in New York, she’s visited Kamar-Taj several times and regularly makes trips to visit relatives for the holidays.
 
-  jaime:
-    name: Jaime Barnes
-    character: The Winter Soldier
-    universe: Beta
-    age: 75 (looks 18-20)
-    pronouns: They/them
-    sexuality: ????
-    personality: Jaime is quiet, broody, and extremely intelligent. They don't talk to anyone that they don't know. They are very much on edge and aware of their surroundings at all times. They are very bad at Social Interaction.
-    backstory: |
-      Jaime was made in the 1940's from the severed from the severed arm of the Initial Winter Soldier. They were grown as a clone and trained by HYDRA to become the ultimate killing machine. After a good amount of time, the Initial began to secretly teach them what it meant to be more than a gun.
+    Outside of the Sanctum, Ester owns her own shop. With a bit of renovation, spells, and a lot of patience, Ester turned the run-down building into what’s now known as <i>The Whimsical Wizard’s Library and Curio Shop.</i> Running the small business has, ironically, proven a great way for Ester to take her mind off things. Not to mention, it’s allowed her to befriend a few frequent customers.
+  other: <s>Gifted Kid Burnout.</s> Really likes moss and snails. Also has prosopagnosia, so recognizing faces gets tricky. More sensitive to magical energies than most, which has its ups and downs.
+  looks: Stands at about 5’5”. Wears sweaters or button-ups and skirts, along with the leather satchel she carries around. Her hair is typically either down in a bob or in a half-up ponytail. Sometimes seen with reading glasses.
+  image: tb/ester-profile.png
 
-      Between assassination plots and seventy years in and out of cryo-sleep, Jaime found their name, who they could trust, and their humanity. In the present day they awoke to find that they were alone. Their base had been abandoned, the Initial was gone, and there were no orders to go off of. Now they've chosen to try and wash the blood from their hands while they explore the bright new world of the present day.
-    other: |
-      The Initial Winter Soldier (Bucky Barnes) is the only one that Jaime really considers themself close to. They look nothing alike due to the "donated" set of genes used to fully create them, but Bucky is the closest that Jaime has to a familial relationship. They're still looking for him.
+jaime:
+  name: Jaime Taylor Barnes
+  character: The Winter Soldier
+  universe: Beta
+  age: 75 (looks 20+)
+  pronouns: They/Them
+  sexuality: ????
+  personality: They’re rather quiet when initially out of cryo, to any authority figure they can even be described as being submissive. Though submissive, they aren’t a push over, and would sooner attack someone than do something they know is not in accordance with their programming. When they regain their memories however, their quiet attitude is mainly for strangers. They can be quite open when they want to, and incredibly kind if the situation calls for it. However, none of these traits will ever pulled out unless you manage to get them alone and their memories are mostly in place.
+  backstory: |
+    Made in the 1940's from the severed arm of the initial Winter Soldier, Jaime was grown as a clone and trained by Hydra to become the ultimate killing machine. Their primary duties involved various assassination attempts made on high profile military figures during World War II. One of which was the mutant known as Weapon X, their battles were fierce and terrible at times, but something changed. At one point during the war, the two stopped fighting: initially because they were tired, but then just because they could, and finally because they found being in each other’s company much better than killing one another. They learned about each other, grew close, and eventually fell for each other. It was difficult, of course, neither side of the war wanted to lose their best weapons. Nor did Jaime want to go anywhere without the Initial (Bucky). He was the person who was there first, though he hadn’t been able to provide the compassion and humanity Melissa had been able to, he had protected and taught them most of what they needed to know to survive.
 
-      Jaime really likes cats, and they have a little black kitten that likes to follow them around. They don't really have any kind of citizenship, so they've taken to stealing and burglary to supply money for food and such. They currently live with Winona and Havoc.
-    looks: Jaime has brown hair that's cut in a pixie style with long bangs. Their eyes are grey and slanted and their skin is a yellow-tan color. They stand at 5'8", they are slender but well muscled, and they are androgynous as f***
-    image: tb/jaimeref.jpg
+    Years would pass, the war ended and Jaime’s mind was wiped of all the memory it contained and placed in a cryopod meant to hold them until the next payer came forward. And come forwards they did. For the next thirty years they were pulled out of the pod, equipped with new weapons, and sent to the war front with little to no info. Their wipes made them forget everything save for their training, so if they saw that same familiar face their first reaction was to dispatch the hindrance. After a few rounds though, it was more than likely that their memories would manage to return. It was a repetition until the end of the Vietnam war where they were sent to Siberia and put in a pod never meant to be reopened.
 
-  lea:
-    name: Lea
-    character: Rufus the Cat
-    universe: Beta
-    age: 4 in cat years, 26 in human years
-    pronouns: She/her
-    sexuality: Lesbian
-    personality: Lea is very sarcastic and very dumb, exactly how every cat should be. Think Salem from Sabrina the Teenage Witch
-    backstory: Lea was the pet of an evil scientist, who experimented on her and gave her powers. She was rescued by a band of runaway heroes and now fights crime as she travels with them.
-    other: Lea's powers include telepathy and bioluminescence
-    looks: Lea is a medium-sized cat with dark brown fur and green eyes. She has the marking of a crescent moon on the outside of her right eyes and wears a green collar with her name engraved on a fish-shaped tag.
-    image: learef.png
+    They were never to know that they had become too unpredictable, especially with their constant disappearances from missions. HYDRA considered them unreliable and decided to terminate their weapon so the organization could start anew. However, something happened that kept them from fully terminating and the base was abandoned. For about 50 years they remained unconscious and unknowing in siberia. Then in 2018 their pod opened due to age and complications of the metal, allowing them out into the world once again.
 
-  melissa:
-    name: Melissa Price
-    character: Wolverine
-    universe: Beta
-    age: 96
-    pronouns: She/her
-    sexuality: Asexual Biromantic
-    personality: Melissa is usually tired and just wants to be left alone. She gives off a grumpy dad vibe and acts as such. She is a drifter who has an arsenal of random skills as the result of taking on various odd jobs throughout the years. She doesn't like talking about herself and struggles with opening up about her life and her emotions. She's working on it, though.
-    backstory: |
-      Melissa was born Mildred Susanna Price in late November of 1922. Her father died when she was six, her brother vanished when she was eight, her mutant powers manifested when she was nine, and both her mother and grandmother died just after she turned ten. She lived the next couple of years as a homeless orphan and moved from one Hooverville to the next as the Great Depression continued on.
+    Because of their long isolation, the wipe lasted longer than most and they had no idea who they were nor what they were meant to do upon waking. After they had regained some control over their body, since their limbs had been frozen for so long, they spent a month waiting for orders. When none came they began searching for answers, discovering a map of america and detailing various bases that existed there. They scavenged some gear, including a knife that they found in the wreckage of the pod, and proceeded out into the wilds. It took them two years, but they finally managed to arrive in New York with: a cat, ratty clothing, their  knife, and absolutely no memories. Hoping naively that they’ll find someone who will tell them what the next step is.
+  other: |
+    The Initial Winter Soldier (Bucky Barnes) is the only one that Jaime really considers themself close to. They look nothing alike due to the "donated" set of genes used to fully create them, but Bucky is the closest that Jaime has to a familial relationship. They're still looking for him.
 
-      She joined a traveling circus when she was twelve and performed as The Jungle Girl in Edwin Bowen's Traveling Circus and Freak Show. Bowen attempted to assault her when she was sixteen, and the ensuing conflict ultimately ended up with Melissa arrested and imprisoned in a mental institution. She was eighteen when Colonel William Stryker approached her and offered her a place in the Weapon X program, an offer that Melissa quickly accepted.
+    Jaime really likes cats, and they have a little black kitten that likes to follow them around. They don't really have any kind of citizenship, so they've taken to stealing and burglary to supply money for food and such. They currently live in and run a bar called War Dogs.
+  looks: Jaime has dark hair that's cut in a pixie style with long bangs. Their eyes are grey and slanted and their skin is a yellow-tan color. They stand at 5'8", they are slender but well muscled, and they are androgynous as f***.
+  image: tb/jaime-profile.jpg
 
-      Melissa fought in World War Two, the Korean War, and the Vietnam War before fully settling in the United States with her wife and son. She was not allowed to publically call them her wife and son because being homosexual was illegal and because society frowned upon mixed couples. It was during that decade-long period that Melissa joined the X-Men and operated under the codename Wolverine until she quit in 1976 and went into hiding in 1978. Melissa spent the next forty years living in isolation and self-imposed exile until her wife died in 2020.
+jesse:
+  name: Jesse Foster
+  character: The Winter Soldier
+  universe: Alpha
+  age: He isn't really sure, but he thinks that he's somewhere around 16/17
+  pronouns: He/Him
+  sexuality: Questioning, either gay or bi
+  personality: Jesse is kind of standoffish and easy to anger, but once you get past that he's soft. He's a self-blaming, self-hating, traumatized kid but he tries to be a kind one. As his story continues, he'll start to let his true personality shine through. He's snarky, sarcastic, always ready to Fight(TM), but he also just really wants a nap. He has a protective streak a mile wide and is honestly kind of a nerd. He had just freed himself from HYDRA after its collapse, so he's a bit unstable to say the least.
+  backstory: Jesse doesn't remember his life before he was taken. Maybe he was a preteen, maybe he was already a teen, maybe he was a kid. Sometimes he remembers (in fragments, but for the most part), but he only remembers pain. His memory problems persist and he's prone to forgetfulness, which is a side effect of whatever the hell HYDRA did to him.
+  other: He feels like he's looking for someone, but he isn't sure who.
+  looks: |
+    Jesse has shoulder-length brown hair. His hair is wavy, has a golden undertone, and darkens in the wintertime. He wears it in a high ponytail because he likes the way it swishes. He's roughly 5'9", so he's not super tall but he's not too short either.
 
-      Since then, she realized her feelings for Jaime Barnes and pursued a relationship with them after fighting her way through HYDRA forces for six months. They're engaged now.
-    other: Melissa likes animals, and animals like her. Her mutation has given her enhanced senses and various animal characteristics on top of her bone claws and Adamantium-laced skeleton.
-    looks: Melissa is short and muscular. She stands at 5'0" and weighs in at just under 300lbs. Her hair is long, wild, curly, and a brown so dark that it's almost black. Her eyes are of a similar color, and her expression is almost always that of a scowl or glare. She prefers wearing jeans and tank tops over more appropriate types of clothing, but will occasionally dabble in dressing nicer should the mood strike.
-    image: tb/mellieref.png
+    Jesse looks scrawny, but his clothes hide a muscular build. He has a metal right arm and a metal left leg. Sometimes when he's in a joking mood, he jokes that they balance each other out. He's pale and has circles under his eyes. He has a kind of square, kind of round face, a hooked nose, and eyes that have been a topic of dispute. Are they blue? Gray? Green? Nobody knows. He doesn't even know.
 
-  enna:
-    name: Enna
-    character: Gamora
-    universe: Omega
-    age: 22
-    pronouns: She/her
-    sexuality: Gay
-    personality: Enna is a defensive person and snaps at anyone who tries to dig into her past. She flinches and steps away out of instinct when other people try to hug or touch her.
-    backstory: Enna was taken from her planet at a very young age and grew up with her adopted father, Thanos. She was abused mentally, emotionally, and sometimes physically by those around her, which caused her to grow harsh and closed off. She learned to do as her father told her to avoid getting punished. Enna became a ruthless assassin who killed without mercy. But when she was tasked to kill a woman in front of her children, Enna fled the scene and took her spaceship around the galaxy before finally landing on Earth.
-    other: Enna dresses however she wants to. Hoodie and cargo pants? Sure! Revealing mini dress? Of course!
-    looks: Enna is of average height and build. She has emerald green skin, brown eyes, and black hair that has been shaved off at the sides and dyed purple. There is a long scar that cuts through the left side of Enna's face and stretches from her cheek, over her eye, above her eyebrow. There is another scar on her right cheek that reaches down past her jaw. Similar scars litter her entire body.
-    image: tb/Enna_Redesign.png
+lea:
+  name: Lea
+  character: Rufus the Cat
+  universe: Beta
+  age: 4 in cat years, 26 in human years
+  pronouns: She/Her
+  sexuality: Lesbian
+  personality: Lea is very sarcastic and very dumb, exactly how every cat should be. Think Salem from Sabrina the Teenage Witch
+  backstory: Lea was the pet of an evil scientist, who experimented on her and gave her powers. She was rescued by a band of runaway heroes and now fights crime as she travels with them.
+  other: Lea's powers include telepathy and bioluminescence
+  looks: Lea is a medium-sized cat with dark brown fur and green eyes. She has the marking of a crescent moon on the outside of her right eyes and wears a green collar with her name engraved on a fish-shaped tag.
+  image: learef.png
 
-  tien:
-    name: Tien Freyason
-    character: Loki Laufeyson
-    universe: Omega
-    age: ????
-    pronouns: They/them
-    sexuality: Pansexual
-    personality: Whatever word is more powerful than ‘flamboyant’, that’s Tien. They're very cunning and are more than willing to use their abilities to get their way. Despite this, they’re pretty friendly.
-    backstory: After being shown up and overstepped one too many times by their brother Thor, Tien up and left Asgard and became a professional piercer. Internet famous via the parlor’s Instagram, Tien enjoys the attention they get.
-    other: Some strengths of theirs are that they are a master of manipulation and deceit, have superhuman strength, speed, endurance, and longevity, astral projection, energy blasts, flight, illusion casting, inter-dimensional teleportation, shapeshifting, and telepathy (taken from comic canon).
-    looks: Tien is 6'. They are kinda lanky but stronger than they look. They have various tattoos with motifs of snakes.
-    image: tb/tien-ref.jpg
+liam:
+  name: Liam Wesley
+  character: Angel
+  universe: Omega
+  age: 24
+  pronouns: He/Him
+  sexuality: Bisexual
+  personality: Liam is friendly and gentle, very easy to talk to. He has a somewhat notable caffeine dependance (go iced coffee) and is willing to tell people the secret to making the best coffee. He is slow to open up because he has no desire to associate himself with his father or the family business but will share certain aspects if he feels safe around those he is talking to.
+  backstory: |
+    Born to an extremely wealthy family, everything was given to Liam on a silver platter. He went to the best schools, had expensive clothes, and hardly ever had to do any work. Their life was picturesque and perfect…that is until their mutation started to show.
 
-  xavier:
-    name: Xavier Itzel Wolfe
-    character: Venom (host)
-    universe: Omega
-    age: 22 <i>(Oct 29, 1998)</i>
-    pronouns: He/Him
-    sexuality: Pansexual
-    personality: Despite the intimidating guise, Xavier is actually a softie that cares too much. When nervous (always), he stutters and apologizes for the smallest things. He’s stubborn about accepting help or dealing with emotions. His interests include astronomy and 80’s music, though he’ll hesitate to admit it.
-    backstory: |
-      <b><u>(TW: mentions of child abuse and violence)</b></u>
+    Around puberty, Liam would experience back and shoulder pains that hindered his ability to continue in sports and focus in school. He went to the doctor at the start and they said he was fine, probably just growing pains, so his parents left it at that. Not too long after, a pair of near pure white wings emerged from his back, gifting him the ability to eventually fly. Scared of what this could mean for him, Liam confided in his mother, the one person he knew would understand as she had a mild mutation as well. She was able to contort her body in almost any way without any previous flexibility, but tragically she was killed in a suspicious car accident just as Liam’s wings fully developed.
 
-      Xavier spent his childhood moving from one rural Canadian town to another, most recently in Quebec. He grew up with two younger siblings, his mother, and his father - the latter being rather short-fused. Xavier got into self-sacrificial habits from a young age and always took the blame for whatever his sisters did. It rarely ended well for him.
+    Left in the care of his less compassionate and busy father, Liam did his best to conceal his wings around his father all while secretly transitioning and finishing schooling. Just before he graduated high school, Liam’s father caught sight of his wings, now white with speckles of different shades of brown, and nearly succeeded in getting them removed to have a “normal child”.
 
-      When he was still a kid, he met a Klyntar named "Frenzy". They intrigued him and the two were fast friends. As a teen, he even became their host, under the conditions that Frenzy would protect him and keep his mind in check. All was well until one evening, during a one-sided argument between his father and one of his sisters, Xavier gave Frenzy permission to intervene. He only wanted to defend his sibling, but the symbiote lashed out viciously. Xavier fled from home, too shaken to face the aftermath of what he caused.
+    Liam, with the help of one of the assistants that had worked for his mother, ran away and stayed with some school friends and a fraction of them money he was used to. He worked his way through school, taking on his mother’s maiden name to distance himself from his father, until he was fired from a job for having an obvious mutation. Dejected, he walked around the city until he came across Mythic Tattoo and Piercing. There, Tien Freyason took him on as an apprentice and now works as the secondary piercer.
+  other: To conceal his wings without long coats and bindings, Liam was given a necklace from Tien that makes his wings appear to be tattoos on his back and arms. This allows him to work around the general public without harassment or having his wings get in the way of his work. He has hollow bones and enhanced senses due to his mutation.
+  looks: Liam is 5'6" and has an athletic build which gives him some muscle mass while still remaining to appear skinny. He has notably wider shoulders than most but that is to accommodate his wings and the ability to fly. His wings are about 13-14 feet from tip to tip, allowing him to fly as if he were a bird.
+  image: tb/liam.jpeg
 
-      He now stays in New York, doing odd jobs for money, dealing with Frenzy, and trying to act as a vigilante with his symbiote’s powers. There’s no place for him to call home unless you count the old van he bought off the side of the road. Someday, he wishes to reconnect with his family, but fears they’d shut him out.
-    other: Xavier knows some Spanish and Quebecois, along with a few Nahuatl and Yucatec words from his grandparents. His voice is deep and a little gruff. He poorly copes with stress by dissociating, among other things.
-    looks: 6’3” in height, strong and broad-shouldered but still pudgy. He has shaggy, black hair and dark green eyes. Lots of scars, but most are hidden by his clothes.
-    image: tb/starjacket.png
+melissa:
+  name: Melissa Price
+  character: Wolverine
+  universe: Beta
+  age: 96
+  pronouns: She/Her
+  sexuality: Asexual Biromantic
+  personality: Melissa is usually tired and just wants to be left alone. She gives off a grumpy dad vibe and acts as such. She is a drifter who has an arsenal of random skills as the result of taking on various odd jobs throughout the years. She doesn't like talking about herself and struggles with opening up about her life and her emotions. She's working on it, though.
+  backstory: |
+    Melissa was born Mildred Susanna Price in late November of 1922. Her father died when she was six, her brother vanished when she was eight, her mutant powers manifested when she was nine, and both her mother and grandmother died just after she turned ten. She lived the next couple of years as a homeless orphan and moved from one Hooverville to the next as the Great Depression continued on.
 
-  zquill:
-    name: Z Quill
-    character: Star Lord
-    universe: Omega
-    age: 17
-    pronouns: They/them
-    sexuality: Homoflexible
-    personality: |
-      Z is sarcastic, sassy, cocky, and overconfident. They are known for having a sour and loud mouth that has no filter. Their brash and abrasive personality is enough for many to brush them off as nothing more than a rude and proud dealing, but a little more time spent with them reveals the true extent of Z's grey morals and the fact that they have a huge sense of humor. It's hard to earn their respect, but once it's gained it's gained forever.
+    She joined a traveling circus when she was twelve and performed as The Jungle Girl in Edwin Bowen's Traveling Circus and Freak Show. Bowen attempted to assault her when she was sixteen, and the ensuing conflict ultimately ended up with Melissa arrested and imprisoned in a mental institution. She was eighteen when Colonel William Stryker approached her and offered her a place in the Weapon X program, an offer that Melissa quickly accepted.
 
-      Z is loyal to the end and can be counted on through thick and thin, but they are similarly just as untrusting. This combination leads to odd relationships but with Z's uninterested demeanor and general disregard for their own safey, it is a safe bet to say that any adventures that stem from their chaos will be interesting ones.
-    backstory: |
-      Z was unintentionally chucked into their life as Star Lord. When they were twelve they saw someone getting mugged and ran to the rescue, but they weren't able to fight very well because of their age. The mugger in question was an alien crime lord in disguise who kidnapped Z and forced them to work as an underling.
+    Melissa fought in World War Two, the Korean War, and the Vietnam War before fully settling in the United States with her wife and son. She was not allowed to publically call them her wife and son because being homosexual was illegal and because society frowned upon mixed couples. It was during that decade-long period that Melissa joined the X-Men and operated under the codename Wolverine until she quit in 1976 and went into hiding in 1978. Melissa spent the next forty years living in isolation and self-imposed exile until her wife died in 2020.
 
-      Out in space with no way home, Z had no choice but to learn the ways of space crime and ended up taking a liking to it. When they were older and had learned a couple of tricks from their crew, Z stole a space cruiser and piloted it back to Earth. Unfortunately the ship was marked as an enemy and shot down once Z was within Earth's atmosphere.
+    Since then, she realized her feelings for Jaime Barnes and pursued a relationship with them after fighting her way through HYDRA forces for six months. They're engaged now.
+  other: Melissa likes animals, and animals like her. Her mutation has given her enhanced senses and various animal characteristics on top of her bone claws and Adamantium-laced skeleton.
+  looks: Melissa is short and muscular. She stands at 5'0" and weighs in at just under 300lbs. Her hair is long, wild, curly, and a brown so dark that it's almost black. Her eyes are of a similar color, and her expression is almost always that of a scowl or glare. She prefers wearing jeans and tank tops over more appropriate types of clothing, but will occasionally dabble in dressing nicer should the mood strike.
+  image: tb/mellieref.png
 
-      Z crashed in a section of woods and left their ship behind so that they wouldn't be detained and questioned. They ran to the nearest city. From there Z began to search for somewhere they could get a new ship.
-    other: Z's only possession from before they were kidnapped is a green woven bracelet.
-    looks: Z has a pale complexion, sandy blond hair, and green eyes. They carry an elemental gun from their time working as part of the crime lord's crew and wear an old long red coat that's covered in stitches and patches that speak of years of use.
-    image: tb/zquill.png
+nona:
+  name: Elena "Nona" Costa
+  character: Venom
+  universe: Beta
+  age: 19(?) (Havoc is 1,000+)
+  pronouns: They/Them/She/Her
+  sexuality: Pansexual
+  personality: Unknown
+  backstory: From LA, but after breaking into a lab they found the symbiote, Havoc. Since then they've been travelling across the states and have settled in New York for now. They rarely stay in one place and do odd jobs and have gathered a reputation as some kind of Cryptid.
+  other: Uknown
+  looks: She's 5'4".
+  image: tb/nonaaa.jpg
 
-  sawyer:
-    name: Jacobi Sawyer
-    character: The Winter Soldier
-    universe: Omega
-    age: 25(?)
-    pronouns: He/Him, They/Them
-    sexuality: Bisexual
-    personality: He has a lonely soul, often silent but with enough presence that he can get away with as few words as possible.
-    backstory: His mum and dad both died when he was young and he was adopted as a ward of the state and grew up in Camp Lehigh. He was deployed in 1941, captured in 1946 and put into service for the KGB in 1952.
-    other: Sawyer's left arm is missing, having been replaced by a prosthetic that’s full of all sorts of neat tricks. He can use pretty much any weapon handed to him, but he’s renowned for his particular skill with throwing knives.
-    looks: Sawyer is 6' with a powerful build. He has a square jaw with patchy stubble and dirty blonde hair which drops to about his shoulder.
-    image: tb/saw_offical.jpg
+sawyer:
+  name: Jackson Sawyer
+  character: The Winter Soldier
+  universe: Omega
+  age: biologically, 25 (actually, 102)
+  pronouns: He/Him
+  sexuality: Bisexual
+  personality: He has a lonely soul, often silent but with enough presence that he can get away with as few words as possible.
+  backstory: |
+    Born and raised on a military air field he was always destined to be a soldier, he was happy and well liked which made it all the more tragic when his plane went down in the Baltic. Him and the pilot where recovered by the soviets and subjected to brainwashing and experiments. They made elite soliders out of them both.
+
+    Over the years they were involved in the red room and sent on many missions. When the programming began to break Sawyer was completely wiped clean and sent to exterminate the other Winter Soldiers. He has been put in status and only taken out when the situations became dire.
+
+    His final mission is to take out the renegade winter soliders in the other dimensions.
+  other: Sawyer's left arm is missing, having been replaced by a prosthetic that’s full of all sorts of neat tricks. He can use pretty much any weapon handed to him, but he’s renowned for his particular skill with throwing knives.
+  looks: Sawyer is 6' with a powerful build. He has a square jaw with patchy stubble and dirty blonde hair which drops to about his shoulder.
+  image: tb/recaptured.jpg
+
+tien:
+  name: Tien Freyason
+  character: Loki Laufeyson
+  universe: Omega
+  age: ????
+  pronouns: They/Them
+  sexuality: Pansexual
+  personality: Whatever word is more powerful than ‘flamboyant’, that’s Tien. They're very cunning and are more than willing to use their abilities to get their way. Despite this, they’re pretty friendly.
+  backstory: After being shown up and overstepped one too many times by their brother Thor, Tien up and left Asgard and became a professional piercer. Internet famous via the parlor’s Instagram, Tien enjoys the attention they get.
+  other: Some strengths of theirs are that they are a master of manipulation and deceit, have superhuman strength, speed, endurance, and longevity, astral projection, energy blasts, flight, illusion casting, inter-dimensional teleportation, shapeshifting, and telepathy (taken from comic canon).
+  looks: Tien is 6'. They are kinda lanky but stronger than they look. They have various tattoos with motifs of snakes.
+  image: tb/tien-ref.jpg
+
+xavier:
+  name: Xavier Itzel Wolfe
+  character: Venom (host)
+  universe: Omega
+  age: 22 <i>(Oct 29, 1998)</i>
+  pronouns: He/Him
+  sexuality: Pansexual
+  personality: Despite the intimidating guise, Xavier is actually a softie that cares too much. When nervous (always), he stutters and apologizes for the smallest things. He’s stubborn about accepting help or dealing with emotions. His interests include astronomy and 80’s music, though he’ll hesitate to admit it.
+  backstory: |
+    <b><u>(TW: mentions of child abuse and violence)</b></u>
+
+    Xavier spent his childhood moving from one rural Canadian town to another, most recently in Quebec. He grew up with two younger siblings, his mother, and his father - the latter being rather short-fused. Xavier got into self-sacrificial habits from a young age and always took the blame for whatever his sisters did. It rarely ended well for him.
+
+    When he was still a kid, he met a Klyntar named "Frenzy". They intrigued him and the two were fast friends. As a teen, he even became their host, under the conditions that Frenzy would protect him and keep his mind in check. All was well until one evening, during a one-sided argument between his father and one of his sisters, Xavier gave Frenzy permission to intervene. He only wanted to defend his sibling, but the symbiote lashed out viciously. Xavier fled from home, too shaken to face the aftermath of what he caused.
+
+    He now stays in New York, doing odd jobs for money, dealing with Frenzy, and trying to act as a vigilante with his symbiote’s powers. There’s no place for him to call home unless you count the old van he bought off the side of the road. Someday, he wishes to reconnect with his family, but fears they’d shut him out.
+  other: Xavier knows some Spanish and Quebecois, along with a few Nahuatl and Yucatec words from his grandparents. His voice is deep and a little gruff. He poorly copes with stress by dissociating, among other things.
+  looks: 6’3” in height, strong and broad-shouldered but still pudgy. He has shaggy, black hair and dark green eyes. Lots of scars, but most are hidden by his clothes.
+  image: tb/starjacket.png
+
+zoe:
+  name: Zoe Davis
+  character: Venom
+  universe: Alpha
+  age: 21
+  pronouns: She/Her
+  sexuality: Bisexual
+  personality: Zoe is really anxious about 90% of the time. She is especially so around others because she has Venom as a second pet. Trying to buy food for them is just as painful as it sounds.
+  backstory: Zoe is not that interesting as a person, but after being hit with the news that a close family member passed away she decided to adopt a dog to keep her company. After the dog, Gizmo, made himself at home in her tiny apartment, he started to act a bit... strange. He needed more food than the recommended amount for a dog his size, among other things. Zoe didn't really have time to visit the vet so she just thought that this was normal for a growing dog. That changed after she was attacked by a crazy ex boyfriend. Gizmo stepped in and ate him. Zoe was terrified after this, but learned to appreciate the new part of her furry companion.
+  other: Gizmo is the one that becomes Venom's host. Zoe just carries around hair spray and a lighter in case they decide not to listen.
+  looks: Zoe has short blonde hair that curls at her shoulders. She usually wears sweatshirts and other dull colors. Her dog, Gizmo, is a medium size boxer who is attached to Zoe by the hip.
+
+zquill:
+  name: Z Greyson Quill
+  character: Star Lord
+  universe: Omega
+  age: 19
+  pronouns: They/Them (Agender)
+  sexuality: Homoflexible Romantic Demisexual
+  personality: |
+    Z is not exactly friendly. While they can certainly be calmed with offerings of food or supplies, Z has spent far to many years separated from their own species. Z's mannerisms are harsh and instinct driven. Looking mainly for survival and amusement then courtesy. They have a quick wit, and it's one that can easily adapt to situations in an effort to keep themself alive, but other than that it's not much good.
+
+    Z's reactions are wild, chaotic, and unpredictable. They've seen a lot of things on their adventures, so at this point most of the decisions they make are based purely on how much fun and how much risk there will be. Z typically only learns and retains things that will help them stay alive. They know 6 alien languages because of a previous crew, but they don't remember much of anything about Earth, like what the heck trains are.
+  backstory: |
+    Z was picked off earth solely for being in the wrong place at the wrong time. They wandered off and wound up in the middle of an intergalactic deal, and as a result wound up being taken off planet and raised in space. No one expected the puny human to survive in the world of alien crime, but Z has never been one to let assumptions be correct about them.
+
+    Z stuck to the person who fed them and taught them how to survive in this wild world until their teens, before defecting (much to the pride of their surrogate parent), and going off to gather their own reputation as a sneaky speedster. Unfortunately their ways caught up to them, and they crashed their ship on earth.
+
+    While Z was off looking for stuff to fix it with, the ship got claimed by the local government. They guarded it too well for Z to take it back on their own, so now they wander around, looking for secret alien spots, just trying to get off this accursed tame planet.
+  other: |
+    Z has alien enhancements that are plated onto their skull and wired into their brain. The tech allows them to telekinetically control a flat, top-shaped sharpened disk, the edge is razor sharp, and the green edge glows, which when travelling at high speeds, seems to leave a trail. Use of this weapon can be taxing across long distances or for long periods of time, so Z's weapon of choice remains a laser blaster.
+
+    When Z is putting low effort into controlling the disk it tends to hover about their head and follow their eyeline, or mimic Z's thoughts. Z's also figured out how to toss the disk, whenever they're not using the telekinesis part, like it's a coin or skipping stone, still cutting up their enemies, who number many.
+
+    In addition, they stole a goober and hop universes so frequently that whether or not Omega is actually their home universe is unknown to others.
+  looks: Z is 5' 9" with light skin and hair that looks like it was once blonde, but has since darkened into a medium brown. Z's outfit is incredibly mismatched, featuring shoes and a red jacket that were stolen from earth sometime in the 70's, pants that were made for a different species and then modified to fit only two legs, a prison regulation white tank top that Z escaped in, and a fabric sack that was cut into a human shirt. Z keeps their pants up and their blaster and disk holstered with what was originally a faux leather shoulder bag for a much smaller species.
+  image: tb/Rework.png
